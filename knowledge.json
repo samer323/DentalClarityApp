@@ -1,0 +1,2496 @@
+{
+  "source_filename": "index.html",
+  "imported_at": "2026-09-14T23:01:11.487958+00:00",
+  "procedure_count": 34,
+  "category_count": 9,
+  "category_counts": {
+    "Cosmetic Dentistry": 4,
+    "Emergency Dental Care": 1,
+    "Endodontic Procedures": 3,
+    "Orthodontics": 2,
+    "Pediatric Dentistry": 3,
+    "Periodontal Treatments": 2,
+    "Preventive Care": 6,
+    "Restorative Dentistry": 6,
+    "Surgical Procedures": 7
+  },
+  "procedures": [
+    {
+      "id": "dental-cleaning",
+      "name": "Dental Cleaning",
+      "category": "preventive",
+      "category_name": "Preventive Care",
+      "icon": "🪥",
+      "summary": "A professional cleaning that removes plaque, tartar, and stains to prevent cavities and gum disease.",
+      "duration": "45–60 min",
+      "visits": "1 visit",
+      "painLevel": 15,
+      "keywords": [
+        "cleaning",
+        "prophylaxis",
+        "hygiene",
+        "polish",
+        "scale"
+      ],
+      "overview": "A dental cleaning — also called prophylaxis — is a professional procedure performed by a dental hygienist to remove deposits that regular brushing and flossing can't fully eliminate. It's one of the most important things you can do to maintain your long-term oral health.",
+      "whyNeeded": "Even with excellent brushing habits, plaque builds up in areas that are difficult to reach. Over time, plaque hardens into tartar (calculus), which can only be removed by a dental professional. Left untreated, tartar buildup leads to gum inflammation (gingivitis), bone loss, cavities, and eventually tooth loss.",
+      "steps": [
+        {
+          "title": "Health review",
+          "text": "Your hygienist reviews your medical history and discusses any concerns. They may take X-rays to check for hidden issues below the gumline."
+        },
+        {
+          "title": "Plaque and tartar removal",
+          "text": "Using small metal instruments called scalers, your hygienist gently scrapes away hardened tartar from the surface of each tooth and just below the gumline."
+        },
+        {
+          "title": "Polishing",
+          "text": "A soft, rotating rubber cup with gritty toothpaste polishes the tooth surfaces, removing surface stains and making teeth feel smooth and slippery — which makes it harder for plaque to re-attach."
+        },
+        {
+          "title": "Flossing",
+          "text": "Professional flossing clears the spaces between your teeth and detects any areas where your gums bleed, which may signal inflammation."
+        },
+        {
+          "title": "Fluoride treatment (optional)",
+          "text": "A fluoride gel or varnish may be applied to strengthen tooth enamel and protect against cavities. This step only takes a minute or two."
+        },
+        {
+          "title": "Exam",
+          "text": "Your dentist performs a comprehensive examination of your teeth, gums, and oral tissues, reviewing X-rays and discussing a personalized care plan."
+        }
+      ],
+      "comfort": "Most patients find a dental cleaning comfortable. You may feel slight pressure or sensitivity, particularly if it has been a while since your last visit or if you have sensitive teeth. Local anesthesia is not typically required. After the cleaning, your teeth and gums may feel slightly tender for a day or two.",
+      "benefits": [
+        "Prevents cavities by removing plaque and tartar",
+        "Reduces risk of gum disease and bone loss",
+        "Detects problems early when they're easier and less expensive to treat",
+        "Freshens breath by eliminating odor-causing bacteria",
+        "Removes surface stains for a brighter smile"
+      ],
+      "risks": "Dental cleanings are very safe. Temporary gum sensitivity or soreness may occur, especially if significant tartar buildup was present. Rarely, patients with certain heart conditions may need to take antibiotics beforehand — your dentist will advise you on this.",
+      "aftercare": {
+        "First 24 Hours": [
+          "Avoid very hot or cold foods if your teeth are sensitive",
+          "Skip whitening toothpaste for 24 hours if teeth feel tender",
+          "Your gums may feel slightly sore — this is normal"
+        ],
+        "First Few Days": [
+          "Brush gently twice daily with a soft-bristled toothbrush",
+          "Floss at least once daily to keep results lasting longer",
+          "Avoid tobacco products, which increase tartar buildup"
+        ],
+        "First Week": [
+          "Notice if any areas remain tender — this usually resolves within a week",
+          "Avoid excessive amounts of dark-staining foods and drinks (coffee, red wine) if you had stain removal"
+        ],
+        "Long-Term Care": [
+          "Schedule regular cleanings every 6 months (or more frequently if recommended)",
+          "Maintain consistent brushing and flossing at home",
+          "Use fluoride toothpaste daily"
+        ]
+      },
+      "url": "https://www.dentalclarity.org/#procedure/dental-cleaning",
+      "verified": true
+    },
+    {
+      "id": "filling",
+      "name": "Dental Filling",
+      "category": "restorative",
+      "category_name": "Restorative Dentistry",
+      "icon": "🔵",
+      "summary": "A filling restores a tooth damaged by decay, returning it to normal function and shape.",
+      "duration": "30–60 min",
+      "visits": "1 visit",
+      "painLevel": 20,
+      "keywords": [
+        "filling",
+        "cavity",
+        "composite",
+        "amalgam",
+        "decay",
+        "caries",
+        "hole",
+        "tooth",
+        "fix"
+      ],
+      "overview": "A dental filling is one of the most common restorative procedures in dentistry. When a cavity forms — meaning decay has eaten through the outer enamel layer of a tooth — a filling removes the damaged tissue and fills the space to prevent further decay and restore the tooth's structure.",
+      "whyNeeded": "Cavities are caused by bacteria that feed on sugars in your mouth, producing acid that erodes tooth enamel. If untreated, decay progresses deeper into the tooth, eventually reaching the inner pulp (nerve), causing infection, severe pain, and potentially requiring a root canal or extraction.",
+      "steps": [
+        {
+          "title": "Anesthesia",
+          "text": "Your dentist numbs the area with a local anesthetic injection. You'll feel pressure but no pain during the procedure."
+        },
+        {
+          "title": "Decay removal",
+          "text": "Using a dental drill or laser, your dentist removes all decayed and damaged tooth material. This is the most important step — any remaining decay can continue to spread beneath the filling."
+        },
+        {
+          "title": "Tooth preparation",
+          "text": "The cleaned cavity is shaped to hold the filling material securely. For composite (tooth-colored) fillings, a special adhesive gel etches the surface to help the material bond firmly."
+        },
+        {
+          "title": "Filling placement",
+          "text": "The filling material is placed in layers. Composite resin is applied in small increments and hardened with a blue curing light after each layer."
+        },
+        {
+          "title": "Shaping and polishing",
+          "text": "Your dentist shapes the filling to match your natural tooth contours and checks your bite. The surface is polished for a smooth, natural feel."
+        }
+      ],
+      "comfort": "Local anesthesia ensures you won't feel pain during the procedure — only pressure or vibration from the drill. After the numbness wears off (usually 1–3 hours), you may feel mild sensitivity or soreness around the tooth, which typically resolves within a few days.",
+      "benefits": [
+        "Stops cavity progression immediately",
+        "Restores the tooth's strength and chewing function",
+        "Prevents infection from reaching the nerve",
+        "Tooth-colored composite fillings blend seamlessly with natural teeth",
+        "Quick, single-visit procedure"
+      ],
+      "risks": "Fillings are a low-risk, well-established procedure. Possible considerations include temporary sensitivity to hot and cold temperatures, which usually fades within a few weeks. Older silver (amalgam) fillings may need replacement over time as they wear. In rare cases, a deep filling may cause the tooth's nerve to become inflamed, requiring a root canal.",
+      "aftercare": {
+        "First 24 Hours": [
+          "Avoid chewing on the filled tooth until numbness fully wears off",
+          "Avoid very hot, cold, or hard foods on the filled side",
+          "Composite fillings are fully set immediately; amalgam fillings take 24 hours to fully harden"
+        ],
+        "First Few Days": [
+          "Mild sensitivity is normal — use sensitive toothpaste if helpful",
+          "Take over-the-counter pain relief as needed",
+          "Avoid biting down hard on the new filling"
+        ],
+        "First Week": [
+          "If your bite feels off or the filling feels too high, contact your dentist for a simple adjustment",
+          "Sensitivity should gradually decrease each day"
+        ],
+        "Long-Term Care": [
+          "Brush twice daily and floss around the filled tooth",
+          "Avoid chewing ice or hard candies that can chip fillings",
+          "Visit your dentist regularly — fillings typically last 7–15 years"
+        ]
+      },
+      "url": "https://www.dentalclarity.org/#procedure/filling",
+      "verified": true
+    },
+    {
+      "id": "crown",
+      "name": "Dental Crown",
+      "category": "restorative",
+      "category_name": "Restorative Dentistry",
+      "icon": "👑",
+      "summary": "A crown is a custom-made cap that fits over a damaged tooth, restoring its shape, strength, and appearance.",
+      "duration": "1–1.5 hr each visit",
+      "visits": "2 visits",
+      "painLevel": 25,
+      "keywords": [
+        "crown",
+        "cap",
+        "tooth cap",
+        "broken tooth",
+        "cracked",
+        "porcelain crown",
+        "ceramic crown"
+      ],
+      "overview": "A dental crown acts like a protective helmet placed over an existing tooth. It completely covers the visible portion of the tooth above the gumline, restoring its shape, size, strength, and appearance. Crowns are among the most versatile restorations in dentistry and can last 10–20 years or more with proper care.",
+      "whyNeeded": "A crown is recommended when a tooth is too damaged for a filling alone to restore it. Common reasons include: large cavities that have weakened the tooth structure; cracked or fractured teeth; teeth that have had root canal treatment; broken or severely worn teeth; or to anchor a dental bridge.",
+      "steps": [
+        {
+          "title": "Numbing and preparation",
+          "text": "Local anesthesia ensures comfort throughout. The dentist reshapes the tooth by removing a thin, even layer from all sides to create space for the crown to fit."
+        },
+        {
+          "title": "Impression",
+          "text": "A detailed mold (impression) of your prepared tooth and surrounding teeth is taken — either with dental putty or a digital scan — and sent to a dental laboratory where your custom crown is crafted."
+        },
+        {
+          "title": "Temporary crown placement",
+          "text": "A temporary plastic crown protects your tooth while the permanent crown is being made (typically 1–2 weeks)."
+        },
+        {
+          "title": "Permanent crown placement",
+          "text": "At your second visit, the temporary crown is removed, and the permanent crown is checked for fit, color, and bite alignment."
+        },
+        {
+          "title": "Cementation",
+          "text": "Once everything looks and feels right, the permanent crown is bonded in place with dental cement. Any excess cement is carefully removed."
+        }
+      ],
+      "comfort": "Both appointments are performed under local anesthesia. The tooth preparation at the first appointment is painless. Between visits, the temporary crown protects the tooth but can feel slightly different from your natural bite. After the permanent crown is placed, your bite may feel slightly off at first but typically adjusts within a day or two.",
+      "benefits": [
+        "Fully restores the tooth's function for normal biting and chewing",
+        "Prevents further cracking or fracture of weakened teeth",
+        "Protects a tooth following root canal treatment",
+        "Improves appearance — crowns can be matched to your natural tooth color",
+        "Long-lasting — typically 10–20+ years with proper care"
+      ],
+      "risks": "Crowns are very predictable restorations. Possible considerations include sensitivity in the first few weeks (especially to temperature), tooth nerve irritation requiring a root canal in rare cases, and the need for eventual crown replacement as they wear over time.",
+      "aftercare": {
+        "First 24 Hours": [
+          "Avoid sticky or hard foods on the new crown for the first day",
+          "Use sensitivity toothpaste if the crowned tooth feels tender",
+          "If the bite feels high, contact your dentist — this can be adjusted quickly"
+        ],
+        "First Few Days": [
+          "Mild sensitivity is normal and should decrease each day",
+          "Chew on the opposite side if the crown feels uncomfortable",
+          "Take OTC pain relievers if needed"
+        ],
+        "First Week": [
+          "The crown should feel natural within a few days to a week",
+          "Slight gum tenderness around the crown is normal and temporary"
+        ],
+        "Long-Term Care": [
+          "Brush and floss around crowns just like natural teeth",
+          "Avoid chewing ice or using your teeth to open packages",
+          "Have your crown checked at regular dental visits — the dentist will examine the margins for any breakdown"
+        ]
+      },
+      "url": "https://www.dentalclarity.org/#procedure/crown",
+      "verified": true
+    },
+    {
+      "id": "root-canal",
+      "name": "Root Canal",
+      "category": "endodontic",
+      "category_name": "Endodontic Procedures",
+      "icon": "🦷",
+      "summary": "A root canal removes infected or damaged pulp from inside the tooth, saving it from extraction and relieving pain.",
+      "duration": "60–90 min",
+      "visits": "1–2 visits",
+      "painLevel": 30,
+      "keywords": [
+        "root canal",
+        "endodontic",
+        "pulp",
+        "infected tooth",
+        "roo",
+        "nerve",
+        "abscess",
+        "infection",
+        "toothache"
+      ],
+      "overview": "Despite its reputation, a modern root canal is a routine procedure that is often no more uncomfortable than getting a filling. Its purpose is to save a tooth that would otherwise need to be extracted by removing the infected or inflamed tissue inside the tooth, cleaning the canals, and sealing them to prevent reinfection.",
+      "whyNeeded": "Inside every tooth is a soft tissue called pulp, which contains nerves and blood vessels. If bacteria reach the pulp — through deep decay, a crack, or trauma — the pulp becomes inflamed or infected. This can cause severe pain, swelling, or an abscess. Without treatment, the infection can spread to surrounding bone and tissue.",
+      "steps": [
+        {
+          "title": "Anesthesia",
+          "text": "Local anesthesia thoroughly numbs the tooth and surrounding tissue. Despite the procedure's reputation, most patients report feeling only pressure — not pain."
+        },
+        {
+          "title": "Isolation and access",
+          "text": "A thin rubber dam is placed around the tooth to keep the area clean and dry. The dentist creates a small opening in the top of the tooth to access the pulp chamber."
+        },
+        {
+          "title": "Pulp removal",
+          "text": "Using small, flexible instruments called files, the dentist carefully removes the infected pulp tissue from the tooth's root canals. This is done methodically to ensure all infected tissue is removed."
+        },
+        {
+          "title": "Cleaning and shaping",
+          "text": "Each canal is carefully shaped and irrigated with an antimicrobial solution to eliminate bacteria and debris. This step is critical for long-term success."
+        },
+        {
+          "title": "Filling the canals",
+          "text": "The cleaned canals are filled with a biocompatible rubber-like material called gutta-percha, then sealed to prevent bacteria from re-entering."
+        },
+        {
+          "title": "Restoration planning",
+          "text": "After a root canal, the tooth is more brittle and typically needs a crown to protect it from fracture. Your dentist will discuss the appropriate restoration for your situation."
+        }
+      ],
+      "comfort": "Modern root canal treatment is performed under local anesthesia and is typically no more uncomfortable than a routine filling. Teeth that are actively infected can sometimes be harder to fully numb, but your dentist has techniques to manage this. After the procedure, mild soreness is common for 2–5 days, especially when biting. This is normal and expected.",
+      "benefits": [
+        "Saves the natural tooth — avoiding extraction and the need for an implant or bridge",
+        "Eliminates pain caused by pulp infection",
+        "Stops the spread of infection to surrounding bone and tissue",
+        "Allows the tooth to remain functional for biting and chewing",
+        "With a crown, the treated tooth can last a lifetime"
+      ],
+      "risks": "Root canals have a very high success rate (above 90%). Occasional considerations include: the possibility of a missed or complex canal that may require retreatment; temporary soreness after the procedure; rare instrument fracture deep within a canal (usually managed without problems); and the need for a crown to protect the tooth.",
+      "aftercare": {
+        "First 24 Hours": [
+          "Take prescribed or recommended OTC pain relievers as directed",
+          "Avoid chewing on the treated side",
+          "Avoid very hard or crunchy foods",
+          "Some ache and sensitivity when biting is completely normal"
+        ],
+        "First Few Days": [
+          "Soreness should gradually decrease each day",
+          "Take antibiotics if prescribed — complete the full course",
+          "Apply ice packs to the cheek if swelling occurs (20 min on, 20 min off)"
+        ],
+        "First Week": [
+          "Resume gentle brushing and flossing by day 2–3",
+          "Contact your dentist if pain worsens after day 3 or if swelling develops",
+          "Avoid temperature extremes on the treated tooth until the crown is placed"
+        ],
+        "Long-Term Care": [
+          "Get your crown placed as soon as recommended — this protects the tooth from fracturing",
+          "Attend regular dental check-ups",
+          "Root canal-treated teeth can last a lifetime with proper care"
+        ]
+      },
+      "url": "https://www.dentalclarity.org/#procedure/root-canal",
+      "verified": true
+    },
+    {
+      "id": "tooth-extraction",
+      "name": "Tooth Extraction",
+      "category": "surgical",
+      "category_name": "Surgical Procedures",
+      "icon": "🔩",
+      "summary": "Removal of a tooth that is too damaged, infected, or crowded to save — relieving pain and preventing further problems.",
+      "duration": "20–60 min",
+      "visits": "1 visit",
+      "painLevel": 35,
+      "keywords": [
+        "extraction",
+        "pull",
+        "pulling",
+        "remove tooth",
+        "pull out",
+        "tooth removal",
+        "simple extraction"
+      ],
+      "overview": "A tooth extraction is the removal of a tooth from its socket in the jawbone. While saving natural teeth is always the first preference, sometimes an extraction is the healthiest and most appropriate option — particularly when a tooth is severely decayed, fractured beyond repair, causing overcrowding, or creating ongoing infection.",
+      "whyNeeded": "Extractions are recommended when a tooth cannot be saved with other treatments, including: severe decay that has destroyed too much of the tooth structure; advanced gum disease that has loosened the tooth; a fractured tooth that extends below the gumline; overcrowding in preparation for orthodontic treatment; or primary (baby) teeth that haven't fallen out naturally.",
+      "steps": [
+        {
+          "title": "Anesthesia",
+          "text": "Local anesthesia is injected around the tooth and gum tissue, completely numbing the area. You'll feel pressure and movement but no pain."
+        },
+        {
+          "title": "Tooth loosening",
+          "text": "The dentist uses an instrument called an elevator to gently loosen the tooth within its socket by rocking it back and forth to widen the socket opening."
+        },
+        {
+          "title": "Tooth removal",
+          "text": "Dental forceps grasp the tooth and remove it using controlled rocking and pulling movements. A simple extraction typically takes just a few minutes once you're numb."
+        },
+        {
+          "title": "Socket care",
+          "text": "The socket is inspected to ensure all tooth fragments are removed. The area may be rinsed with an antimicrobial solution."
+        },
+        {
+          "title": "Gauze placement",
+          "text": "A folded piece of gauze is placed over the socket and you'll be asked to bite down firmly to control bleeding and help a blood clot form — a critical step for healing."
+        }
+      ],
+      "comfort": "The injection to numb the area may sting briefly, but the extraction itself should be pressure-only — not painful. If you feel sharp pain at any point, tell your dentist immediately so they can add more anesthetic. After the numbness wears off, expect soreness and throbbing in the extraction site for 2–5 days.",
+      "benefits": [
+        "Eliminates pain caused by an unsalvageable tooth",
+        "Removes a source of ongoing infection",
+        "Creates space for orthodontic treatment when needed",
+        "Prevents damage to neighboring healthy teeth from spreading decay or infection",
+        "Opens the door to tooth replacement options like implants or bridges"
+      ],
+      "risks": "Extractions are routine but carry minor considerations: dry socket (a painful condition where the blood clot dislodges — most common after lower back teeth), infection, prolonged bleeding, and temporary numbness from nearby nerves. Following aftercare instructions significantly reduces all risks.",
+      "aftercare": {
+        "First 24 Hours": [
+          "Bite on gauze for 30–60 minutes; change if saturated",
+          "Do NOT rinse, spit forcefully, smoke, or use a straw — these can dislodge the clot",
+          "Apply ice packs (20 min on/off) to reduce swelling",
+          "Take prescribed pain medication as directed",
+          "Eat only soft foods (yogurt, soup, mashed potatoes)"
+        ],
+        "First Few Days": [
+          "Rinse gently with warm salt water starting 24 hours after extraction",
+          "Continue soft foods; avoid the extraction site when chewing",
+          "Swelling typically peaks at 48–72 hours then decreases",
+          "Slight bleeding or pink saliva is normal for 24–48 hours"
+        ],
+        "First Week": [
+          "The socket will begin to close with new tissue",
+          "Continue gentle salt water rinses 3–4 times daily",
+          "Call your dentist if you experience worsening pain after day 3 (may indicate dry socket)"
+        ],
+        "Long-Term Care": [
+          "Discuss tooth replacement options at your follow-up visit",
+          "Implants, bridges, or partial dentures can restore function and prevent bone loss where the tooth was removed"
+        ]
+      },
+      "url": "https://www.dentalclarity.org/#procedure/tooth-extraction",
+      "verified": true
+    },
+    {
+      "id": "dental-implant",
+      "name": "Dental Implant",
+      "category": "surgical",
+      "category_name": "Surgical Procedures",
+      "icon": "🔩",
+      "summary": "A titanium post surgically placed in the jawbone that supports a crown — the most durable permanent tooth replacement available.",
+      "duration": "Surgery: 1–2 hr; Process: 3–6 months",
+      "visits": "3–5+ visits",
+      "painLevel": 40,
+      "keywords": [
+        "implant",
+        "dental implant",
+        "titanium post",
+        "replace tooth",
+        "missing tooth",
+        "permanent tooth"
+      ],
+      "overview": "A dental implant is a small titanium post placed into the jawbone to act as an artificial tooth root. Over time, it fuses with the surrounding bone (a process called osseointegration) and provides a stable foundation for a custom-made crown. Implants are widely considered the gold standard for replacing missing teeth.",
+      "whyNeeded": "When a tooth is lost or extracted, the jawbone beneath it begins to shrink. Implants prevent bone loss, preserve facial structure, and restore full chewing function. Unlike bridges, implants don't require altering neighboring healthy teeth. Unlike dentures, they are fixed in place and function just like natural teeth.",
+      "steps": [
+        {
+          "title": "Evaluation and planning",
+          "text": "X-rays, CT scans, and a thorough exam determine whether you have adequate bone density and healthy gums to support an implant. A detailed treatment plan is created."
+        },
+        {
+          "title": "Implant placement surgery",
+          "text": "Under local anesthesia (with sedation available), a small incision is made in the gum. A precision drill creates a channel in the jawbone, and the titanium implant post is inserted and the gum is sutured closed."
+        },
+        {
+          "title": "Osseointegration (healing)",
+          "text": "Over the next 3–6 months, the implant integrates with your jawbone, becoming a permanent part of your jaw. This is the longest part of the process but requires no active treatment."
+        },
+        {
+          "title": "Abutment placement",
+          "text": "Once the implant has fully integrated, a small connector piece called an abutment is attached to the implant. This is a minor procedure done under local anesthesia."
+        },
+        {
+          "title": "Crown placement",
+          "text": "A custom-made porcelain crown is attached to the abutment, completing the restoration. The crown is matched to your natural tooth color and contours for a seamless look."
+        }
+      ],
+      "comfort": "The implant surgery is performed under local anesthesia — you'll feel pressure but no pain. Sedation is available if you prefer. Post-surgical soreness, swelling, and minor bleeding are normal for the first few days. Most patients manage discomfort with OTC pain relievers and feel comfortable resuming normal activity within a few days.",
+      "benefits": [
+        "Most natural-feeling tooth replacement available",
+        "Prevents bone loss in the jaw",
+        "Does not require modifying neighboring healthy teeth",
+        "Permanent and long-lasting — can last decades to a lifetime",
+        "Restores full chewing ability and speech clarity",
+        "Maintains facial structure and prevents a sunken appearance"
+      ],
+      "risks": "Implants have a 95%+ success rate. Potential considerations include implant failure (rare, more common in smokers or uncontrolled diabetics), infection, nerve proximity, and sinus complications for upper jaw implants. Your dentist will screen for all risk factors in advance.",
+      "aftercare": {
+        "First 24 Hours": [
+          "Bite gently on gauze to control bleeding",
+          "Apply ice packs to reduce swelling (20 min on/off)",
+          "Take antibiotics and pain medication as prescribed",
+          "Avoid hot foods and drinks; stick to soft, cool foods",
+          "Do NOT smoke — this significantly increases failure risk"
+        ],
+        "First Few Days": [
+          "Mild swelling, bruising, and soreness are normal and will peak at 48–72 hours",
+          "Rinse gently with salt water starting 24 hours after surgery",
+          "Avoid vigorous brushing near the implant site"
+        ],
+        "First Week": [
+          "Stitches may dissolve on their own or be removed at a follow-up visit",
+          "Soreness should noticeably improve each day after day 2–3",
+          "Return to soft foods gradually — no hard, crunchy, or chewy items"
+        ],
+        "Long-Term Care": [
+          "Brush and floss around the implant crown just like natural teeth",
+          "Use an interdental brush or water flosser around the implant",
+          "Attend regular dental check-ups — your dentist will monitor implant health",
+          "Avoid grinding — a night guard may be recommended"
+        ]
+      },
+      "url": "https://www.dentalclarity.org/#procedure/dental-implant",
+      "verified": true
+    },
+    {
+      "id": "teeth-whitening",
+      "name": "Teeth Whitening",
+      "category": "cosmetic",
+      "category_name": "Cosmetic Dentistry",
+      "icon": "✨",
+      "summary": "A safe, professional-grade treatment that lightens tooth enamel, reducing stains for a brighter, more confident smile.",
+      "duration": "60–90 min (in-office) or 2–4 weeks (take-home)",
+      "visits": "1–2 visits",
+      "painLevel": 10,
+      "keywords": [
+        "whitening",
+        "bleaching",
+        "brighten",
+        "white teeth",
+        "stains",
+        "yellow teeth"
+      ],
+      "overview": "Teeth whitening uses hydrogen peroxide or carbamide peroxide gel to penetrate the enamel and break down stain molecules, lightening the overall shade of your teeth. Professional whitening is more effective and safer than over-the-counter options because the concentration and application method are precisely controlled.",
+      "whyNeeded": "Teeth naturally become discolored over time due to aging, coffee, tea, red wine, tobacco, and certain medications. While surface stains can be partially removed with polishing, deeper discoloration requires whitening treatment to achieve a meaningful change in tooth shade.",
+      "steps": [
+        {
+          "title": "Shade assessment",
+          "text": "Your dentist photographs your teeth and uses a shade guide to record your starting color. This helps measure your results accurately."
+        },
+        {
+          "title": "Preparation",
+          "text": "A protective gel or rubber shield covers your gums to prevent irritation from the bleaching agent. Your lips and cheeks are gently retracted."
+        },
+        {
+          "title": "Whitening gel application",
+          "text": "The professional-strength whitening gel is carefully applied to all visible tooth surfaces."
+        },
+        {
+          "title": "Light activation (in-office)",
+          "text": "A special light or laser may be used to activate the gel and accelerate the whitening process. Multiple cycles (typically 15–20 minutes each) are applied."
+        },
+        {
+          "title": "Rinse and evaluation",
+          "text": "The gel is removed and your teeth are rinsed. Your final shade is compared to the starting shade to document your results."
+        }
+      ],
+      "comfort": "Teeth whitening is generally comfortable. Some patients experience mild sensitivity to temperature during or after treatment — this is temporary and resolves within 24–48 hours. Using sensitive toothpaste in the week before and after treatment helps significantly.",
+      "benefits": [
+        "Dramatically brightens your smile — typically 4–8 shades lighter",
+        "Safe and clinically proven when performed as directed",
+        "Boosts confidence and self-esteem",
+        "Results can last 1–3 years with good maintenance",
+        "Quick — in-office treatment achieves results in a single appointment"
+      ],
+      "risks": "Professional whitening is considered very safe. Temporary tooth sensitivity is the most common side effect. Whitening does not change the color of crowns, veneers, or fillings — these may need to be replaced after whitening to match your new smile.",
+      "aftercare": {
+        "First 24 Hours": [
+          "Avoid dark-staining foods and drinks (coffee, tea, red wine, dark sauces, berries)",
+          "This is called the 'white diet' period — stick to white and light-colored foods",
+          "Avoid tobacco products which immediately re-stain teeth"
+        ],
+        "First Few Days": [
+          "Use sensitive toothpaste if teeth feel tender",
+          "Avoid extremely hot or cold foods and beverages",
+          "Resume gentle brushing with a soft brush"
+        ],
+        "First Week": [
+          "Sensitivity should completely resolve within a week",
+          "Begin reintroducing foods gradually"
+        ],
+        "Long-Term Care": [
+          "Maintain results by brushing after staining beverages",
+          "Avoid or minimize coffee, tea, wine, and tobacco",
+          "Schedule touch-up whitening every 12–18 months as needed",
+          "Use whitening toothpaste for maintenance"
+        ]
+      },
+      "url": "https://www.dentalclarity.org/#procedure/teeth-whitening",
+      "verified": true
+    },
+    {
+      "id": "deep-cleaning",
+      "name": "Deep Cleaning (Scaling & Root Planing)",
+      "category": "periodontal",
+      "category_name": "Periodontal Treatments",
+      "icon": "🌿",
+      "summary": "A non-surgical treatment for gum disease that removes tartar buildup deep below the gumline to help gums reattach to teeth.",
+      "duration": "1–2 hr per session",
+      "visits": "2–4 visits",
+      "painLevel": 40,
+      "keywords": [
+        "deep cleaning",
+        "scaling",
+        "root planing",
+        "SRP",
+        "gum disease",
+        "deep",
+        "periodontal cleaning",
+        "periodontics"
+      ],
+      "overview": "Scaling and root planing (SRP) is a non-surgical treatment for periodontal (gum) disease. Unlike a standard cleaning that cleans above and just at the gumline, SRP goes deep below the gumline to remove tartar deposits and bacterial toxins from the root surfaces of your teeth, helping the gums heal and reattach.",
+      "whyNeeded": "When gum disease progresses beyond gingivitis, bacteria and tartar accumulate in the pockets between the gums and teeth. This triggers an immune response that destroys the surrounding bone and tissue. Without treatment, pockets deepen, bone continues to be lost, and eventually teeth become loose and may fall out. SRP halts this process.",
+      "steps": [
+        {
+          "title": "Local anesthesia",
+          "text": "One or two quadrants of the mouth are treated at a time, each under local anesthesia so you're comfortable throughout. You'll feel pressure but no pain."
+        },
+        {
+          "title": "Scaling",
+          "text": "Using ultrasonic scalers and hand instruments, your hygienist removes all tartar deposits and bacterial film from the root surfaces deep within the gum pockets."
+        },
+        {
+          "title": "Root planing",
+          "text": "The root surfaces are smoothed (planed) to remove rough areas where bacteria adhere. Smooth root surfaces make it much harder for bacteria to reattach."
+        },
+        {
+          "title": "Antimicrobial irrigation",
+          "text": "The pockets are rinsed with antimicrobial solution to reduce bacterial load and support healing."
+        },
+        {
+          "title": "Antibiotic placement (if needed)",
+          "text": "In some cases, tiny antibiotic chips or fibers are placed directly in the pockets to kill remaining bacteria as the site heals."
+        },
+        {
+          "title": "Re-evaluation",
+          "text": "6–8 weeks after all quadrants are treated, your dentist measures the gum pockets again to assess healing and determine if further treatment is needed."
+        }
+      ],
+      "comfort": "Because local anesthesia is used, you shouldn't feel pain during treatment — only pressure. After the anesthesia wears off, expect gum tenderness, mild aching, and some sensitivity for 3–5 days. Over-the-counter pain relievers and warm salt water rinses help manage discomfort.",
+      "benefits": [
+        "Halts the progression of gum disease and bone loss",
+        "Allows inflamed gums to heal and reattach to teeth",
+        "Reduces pocket depths, making maintenance easier",
+        "Eliminates the bacterial source of bad breath",
+        "May prevent the need for gum surgery in moderate cases",
+        "Protects overall health — gum disease is linked to heart disease and diabetes"
+      ],
+      "risks": "SRP is safe and very effective. Temporary tooth sensitivity (especially to cold) is common for 1–3 weeks. Some patients experience slight gum recession as swelling resolves. Rarely, infection or delayed healing can occur. Following aftercare instructions and attending follow-up visits are important for success.",
+      "aftercare": {
+        "First 24 Hours": [
+          "Eat soft foods only — avoid anything hard, crunchy, or spicy",
+          "Avoid very hot or cold foods and drinks",
+          "Do NOT floss the treated areas today"
+        ],
+        "First Few Days": [
+          "Rinse with warm salt water (1/2 tsp salt in 8 oz water) 2–3 times daily",
+          "Resume gentle brushing; avoid aggressive scrubbing near the gumline",
+          "Take OTC pain relievers as needed"
+        ],
+        "First Week": [
+          "Gum tenderness and sensitivity should gradually improve",
+          "Begin gentle flossing after 48 hours if tolerated",
+          "Avoid tobacco — it severely impairs gum healing"
+        ],
+        "Long-Term Care": [
+          "Attend your 6–8 week re-evaluation appointment",
+          "You'll likely be placed on a 3–4 month 'periodontal maintenance' cleaning schedule",
+          "Consistent home care — brushing and flossing daily — is essential to prevent recurrence"
+        ]
+      },
+      "url": "https://www.dentalclarity.org/#procedure/deep-cleaning",
+      "verified": true
+    },
+    {
+      "id": "veneers",
+      "name": "Dental Veneers",
+      "category": "cosmetic",
+      "category_name": "Cosmetic Dentistry",
+      "icon": "💎",
+      "summary": "Ultra-thin porcelain or composite shells bonded to the front of teeth to transform shape, size, color, and overall smile appearance.",
+      "duration": "1–1.5 hr each visit",
+      "visits": "2–3 visits",
+      "painLevel": 15,
+      "keywords": [
+        "veneers",
+        "porcelain",
+        "smile makeover",
+        "veneer",
+        "cosmetic",
+        "thin shells",
+        "smile"
+      ],
+      "overview": "Dental veneers are thin shells of porcelain or composite resin custom-made to fit over the front surface of your teeth. They're the go-to solution for comprehensive smile transformations, addressing discoloration, chips, cracks, gaps, and shape irregularities simultaneously — often creating a dramatic improvement in a patient's smile and confidence.",
+      "whyNeeded": "Veneers are typically chosen when multiple cosmetic concerns exist that cannot be resolved with whitening or bonding alone. Common reasons include: severe discoloration unresponsive to whitening; chipped or worn teeth; uneven tooth shape or size; small gaps between teeth; and slightly crooked appearance without requiring orthodontic treatment.",
+      "steps": [
+        {
+          "title": "Consultation and planning",
+          "text": "You and your dentist discuss your goals and view digital simulations of your expected results. Shade selection is made and a treatment plan is finalized."
+        },
+        {
+          "title": "Tooth preparation",
+          "text": "A very thin layer of enamel (approximately 0.5mm — about the thickness of a contact lens) is removed from the front of each tooth to make room for the veneer and ensure a natural-looking result."
+        },
+        {
+          "title": "Impressions",
+          "text": "Detailed molds are sent to a dental laboratory, where a skilled ceramist crafts your custom veneers. Temporary veneers are placed to protect your teeth during this 1–2 week period."
+        },
+        {
+          "title": "Try-in and evaluation",
+          "text": "At your second appointment, the permanent veneers are placed temporarily so you can evaluate appearance. Adjustments to shape or shade can be made before final bonding."
+        },
+        {
+          "title": "Bonding",
+          "text": "Each tooth surface is etched for optimal bonding, and the veneer is permanently cemented with dental adhesive. A curing light hardens the bond instantly."
+        }
+      ],
+      "comfort": "Tooth preparation is done under local anesthesia. Temporary veneers may feel slightly different from your natural teeth. Once permanent veneers are in place, most patients report they feel natural very quickly. Some patients experience mild sensitivity for the first few days after bonding.",
+      "benefits": [
+        "Dramatic, natural-looking smile transformation",
+        "Resistant to staining — porcelain veneers stay white longer than natural teeth",
+        "Minimal tooth reduction compared to crowns",
+        "Can address multiple cosmetic concerns simultaneously",
+        "Long-lasting — porcelain veneers typically last 10–20 years"
+      ],
+      "risks": "Because a thin layer of enamel is removed, the process is permanent and irreversible. Veneer-covered teeth will always need some form of restoration going forward. Veneers can chip or crack if subjected to excessive force (nail biting, teeth grinding, hard foods). A night guard is recommended if you clench or grind.",
+      "aftercare": {
+        "First 24 Hours": [
+          "Avoid very hard, crunchy, or sticky foods for the first day",
+          "Sensitivity is normal and will improve"
+        ],
+        "First Few Days": [
+          "Use sensitivity toothpaste if needed",
+          "Avoid biting hard objects (pens, ice, hard candy)"
+        ],
+        "First Week": [
+          "Your veneers should feel natural and comfortable within a week",
+          "Mild gum tenderness where the veneer edge meets the gum may be present initially"
+        ],
+        "Long-Term Care": [
+          "Brush twice daily with a non-abrasive toothpaste",
+          "Floss daily — floss can be pulled through, not snapped, to protect veneer margins",
+          "Avoid chewing on non-food items",
+          "Wear a night guard if you grind your teeth",
+          "Visit your dentist regularly — veneers are checked at each exam"
+        ]
+      },
+      "url": "https://www.dentalclarity.org/#procedure/veneers",
+      "verified": true
+    },
+    {
+      "id": "bonding",
+      "name": "Dental Bonding",
+      "category": "cosmetic",
+      "category_name": "Cosmetic Dentistry",
+      "icon": "🪄",
+      "summary": "A tooth-colored resin applied and sculpted directly onto a tooth to repair chips, cracks, gaps, or discoloration in a single appointment.",
+      "duration": "30–60 min per tooth",
+      "visits": "1 visit",
+      "painLevel": 5,
+      "keywords": [
+        "bonding",
+        "composite bonding",
+        "chip",
+        "chipped tooth",
+        "gap",
+        "gap teeth",
+        "repair tooth",
+        "resin"
+      ],
+      "overview": "Dental bonding is one of the quickest and most affordable cosmetic dental procedures available. A tooth-colored composite resin is applied to the tooth surface, shaped by hand, and hardened with a special light. It's an excellent option for minor cosmetic improvements and small repairs, often completed in a single appointment with no anesthesia required.",
+      "whyNeeded": "Bonding is recommended for: repairing small chips or cracks; closing minor gaps between teeth; covering discoloration that doesn't respond to whitening; making a tooth slightly longer or changing its shape; or protecting an exposed tooth root from sensitivity.",
+      "steps": [
+        {
+          "title": "Shade matching",
+          "text": "A shade guide is used to select a resin color that closely matches your natural tooth color."
+        },
+        {
+          "title": "Surface preparation",
+          "text": "The tooth surface is lightly etched with a conditioning liquid that helps the resin adhere. Anesthesia is rarely needed unless the bonding is near a decayed area."
+        },
+        {
+          "title": "Resin application",
+          "text": "The putty-like composite resin is applied, molded, and smoothed to the desired shape — like sculpting."
+        },
+        {
+          "title": "Hardening",
+          "text": "A blue curing light hardens the resin solid in approximately 30–60 seconds."
+        },
+        {
+          "title": "Finishing",
+          "text": "The bonded area is trimmed, shaped, and polished until it looks and feels like a natural part of the tooth."
+        }
+      ],
+      "comfort": "Dental bonding is typically painless and requires no anesthesia. The entire process is gentle — you'll mainly feel slight pressure during shaping. There is usually no soreness afterward.",
+      "benefits": [
+        "Quick, single-appointment procedure",
+        "Minimally invasive — little to no enamel removal",
+        "More affordable than veneers or crowns",
+        "Natural-looking results when done well",
+        "Reversible in most cases (unlike veneers)"
+      ],
+      "risks": "Bonding material is not as strong or stain-resistant as porcelain. It may chip, stain, or wear over time (typically lasts 5–10 years with good care). Bonding is not ideal for large restorations — in those cases, a crown or veneer provides better durability.",
+      "aftercare": {
+        "First 24 Hours": [
+          "Avoid coffee, tea, and dark foods for the first 48 hours while the bond fully cures",
+          "Avoid biting hard objects with the bonded tooth"
+        ],
+        "First Few Days": [
+          "Brush gently around the bonded area",
+          "Some edge sensitivity may be present initially"
+        ],
+        "First Week": [
+          "The restoration should feel natural and comfortable within a few days"
+        ],
+        "Long-Term Care": [
+          "Brush twice daily with non-abrasive toothpaste — avoid whitening formulas on bonded teeth",
+          "Avoid biting nails, chewing ice, or opening packages with your teeth",
+          "Bonding can be touched up or replaced if it chips or discolors",
+          "Attend regular dental visits"
+        ]
+      },
+      "url": "https://www.dentalclarity.org/#procedure/bonding",
+      "verified": true
+    },
+    {
+      "id": "wisdom-tooth-extraction",
+      "name": "Wisdom Tooth Extraction",
+      "category": "surgical",
+      "category_name": "Surgical Procedures",
+      "icon": "🦷",
+      "summary": "Removal of third molars that are impacted, causing pain, crowding, or infection — typically performed in the late teens or early twenties.",
+      "duration": "45–90 min",
+      "visits": "1–2 visits",
+      "painLevel": 50,
+      "keywords": [
+        "wisdom tooth",
+        "wisdom teeth",
+        "third molar",
+        "impacted",
+        "wisdom",
+        "molar removal"
+      ],
+      "overview": "Wisdom teeth are the last four molars to emerge, typically appearing between ages 17 and 25. Because most modern mouths don't have room for them, wisdom teeth frequently become impacted — meaning they grow in at an angle or become trapped beneath the gumline. Extraction is often recommended to prevent pain, crowding, and infection.",
+      "whyNeeded": "Wisdom teeth cause problems when: they're impacted and pressing on neighboring teeth; they only partially erupt, leaving a flap of gum that traps food and bacteria; they're causing pain, infection, or decay in nearby teeth; or when orthodontic work has created alignment that wisdom teeth could disturb.",
+      "steps": [
+        {
+          "title": "Consultation and imaging",
+          "text": "Panoramic X-rays show the position, angulation, and root development of all four wisdom teeth. Your dentist or oral surgeon creates an extraction plan."
+        },
+        {
+          "title": "Anesthesia",
+          "text": "Local anesthesia numbs the entire area. IV sedation or general anesthesia is offered for anxious patients or complex cases — many patients choose sedation for peace of mind."
+        },
+        {
+          "title": "Incision and exposure",
+          "text": "For impacted teeth, a small incision in the gum tissue exposes the tooth and bone."
+        },
+        {
+          "title": "Tooth sectioning",
+          "text": "Impacted wisdom teeth are often divided into smaller sections using a surgical drill, making removal easier and less traumatic to surrounding bone."
+        },
+        {
+          "title": "Removal",
+          "text": "Each section of the tooth is carefully extracted using surgical instruments."
+        },
+        {
+          "title": "Closure",
+          "text": "The extraction sites are irrigated, any loose bone is smoothed, and stitches close the gum tissue. Gauze is placed for bite pressure."
+        }
+      ],
+      "comfort": "With local anesthesia, you feel only pressure — not pain. IV sedation makes the entire experience feel like you've slept through it. Recovery is the most uncomfortable phase: expect significant swelling, stiffness in the jaw, and soreness for 3–5 days, with most patients feeling noticeably better by day 4–5.",
+      "benefits": [
+        "Eliminates pain from impacted or infected wisdom teeth",
+        "Prevents damage to neighboring second molars",
+        "Reduces risk of recurring pericoronitis (infection around the gum flap)",
+        "Prevents cyst formation around impacted teeth",
+        "Early removal (late teens/early 20s) results in easier extraction and faster healing"
+      ],
+      "risks": "Wisdom tooth extraction is a routine surgical procedure. Risks include: dry socket (most common complication, occurring in ~5% of extractions), temporary numbness of the lip or tongue from nearby nerve proximity (very rare), infection, and prolonged bleeding. These risks are minimized by following aftercare instructions carefully.",
+      "aftercare": {
+        "First 24 Hours": [
+          "Bite firmly on gauze for 30–60 minutes; change as needed",
+          "NO spitting, rinsing, smoking, or straw use — these dislodge the blood clot",
+          "Apply ice packs to cheeks (20 min on/off) for swelling",
+          "Rest with your head elevated",
+          "Eat only soft, cool foods: yogurt, smoothies, mashed potatoes"
+        ],
+        "First Few Days": [
+          "Swelling typically peaks at 48–72 hours",
+          "Rinse gently with salt water beginning 24 hours post-surgery",
+          "Take all prescribed medications on schedule — don't wait for pain to spike",
+          "Apply moist heat after day 3 to help with jaw stiffness"
+        ],
+        "First Week": [
+          "Jaw stiffness (trismus) is common for 1–2 weeks; gentle opening exercises help",
+          "Avoid hard, crunchy, or chewy foods for the full week",
+          "If pain suddenly worsens after day 3, contact your dentist — this may indicate dry socket"
+        ],
+        "Long-Term Care": [
+          "Sockets fully close with new bone over 3–6 months",
+          "Keep the area clean by rinsing after meals",
+          "Follow up if any concerns arise"
+        ]
+      },
+      "url": "https://www.dentalclarity.org/#procedure/wisdom-tooth-extraction",
+      "verified": true
+    },
+    {
+      "id": "sealants",
+      "name": "Dental Sealants",
+      "category": "preventive",
+      "category_name": "Preventive Care",
+      "icon": "🛡",
+      "summary": "A thin protective plastic coating painted onto the chewing surfaces of back teeth to prevent cavities from forming in the grooves.",
+      "duration": "15–30 min",
+      "visits": "1 visit",
+      "painLevel": 0,
+      "keywords": [
+        "sealants",
+        "seal",
+        "groove",
+        "prevention",
+        "cavity prevention",
+        "protective coating"
+      ],
+      "overview": "Dental sealants are thin, protective coatings applied to the chewing surfaces of molars and premolars. These back teeth have deep pits and grooves that easily trap food and bacteria — even with careful brushing. Sealants fill in these grooves, creating a smooth surface that's easy to clean and resistant to decay.",
+      "whyNeeded": "The chewing surfaces of back teeth account for the majority of cavities in children and teens. The grooves are so narrow that toothbrush bristles can't fully reach the bottom. Sealants dramatically reduce the risk of cavities in these vulnerable areas and are a highly cost-effective preventive measure.",
+      "steps": [
+        {
+          "title": "Cleaning",
+          "text": "The tooth is cleaned thoroughly and dried."
+        },
+        {
+          "title": "Etching",
+          "text": "An acidic gel is applied briefly to create a slightly rough surface for better bonding, then rinsed away."
+        },
+        {
+          "title": "Sealant application",
+          "text": "Liquid sealant material is painted into the grooves."
+        },
+        {
+          "title": "Curing",
+          "text": "A curing light hardens the sealant into a protective barrier in seconds."
+        },
+        {
+          "title": "Evaluation",
+          "text": "Your bite is checked to ensure the sealant doesn't interfere with how your teeth meet."
+        }
+      ],
+      "comfort": "Sealant application is completely painless — no needles, no drilling. The process feels like having a liquid painted onto your teeth.",
+      "benefits": [
+        "Reduces cavity risk by up to 80% on treated surfaces",
+        "Quick, painless, and non-invasive",
+        "Especially valuable for children ages 6–14",
+        "Adults can benefit too if deep grooves are present",
+        "Protects for up to 10 years with proper care"
+      ],
+      "risks": "Sealants are extremely safe. They may chip or wear over time and need reapplication. They only protect the chewing surface — not the sides between teeth.",
+      "aftercare": {
+        "First 24 Hours": [
+          "Avoid hard, sticky candy for 24 hours",
+          "Sealants are fully functional immediately after placement"
+        ],
+        "First Few Days": [
+          "Brush and floss normally"
+        ],
+        "First Week": [
+          "The sealed teeth should feel completely normal"
+        ],
+        "Long-Term Care": [
+          "Sealants are checked at every regular dental visit",
+          "Reapplication is quick and easy if they chip",
+          "Continue regular brushing, flossing, and checkups — sealants don't replace good hygiene"
+        ]
+      },
+      "url": "https://www.dentalclarity.org/#procedure/sealants",
+      "verified": true
+    },
+    {
+      "id": "fluoride-treatment",
+      "name": "Fluoride Treatment",
+      "category": "preventive",
+      "category_name": "Preventive Care",
+      "icon": "💧",
+      "summary": "A professional fluoride application that strengthens tooth enamel and protects against decay — especially important for children and high-risk adults.",
+      "duration": "5–10 min",
+      "visits": "1 visit (part of cleaning)",
+      "painLevel": 0,
+      "keywords": [
+        "fluoride",
+        "fluoride treatment",
+        "strengthen enamel",
+        "cavity prevention",
+        "varnish"
+      ],
+      "overview": "Professional fluoride treatment involves applying a concentrated fluoride gel, foam, or varnish to your teeth to strengthen enamel and make teeth more resistant to acid attacks from bacteria. It's a quick, painless addition to your regular dental cleaning.",
+      "whyNeeded": "Fluoride remineralizes enamel that has been weakened by acid erosion — reversing the very early stages of decay and making teeth more resistant to future acid damage. It's especially valuable for children, people prone to cavities, those with dry mouth, or anyone with exposed root surfaces.",
+      "steps": [
+        {
+          "title": "Tooth surface preparation",
+          "text": "Applied after your routine cleaning for maximum effect."
+        },
+        {
+          "title": "Application",
+          "text": "A varnish is painted onto all tooth surfaces, or a gel/foam is held in a tray against your teeth for 1–4 minutes."
+        },
+        {
+          "title": "Completion",
+          "text": "The treatment is complete. For varnish, you'll be asked to wait 30 minutes before eating or drinking."
+        }
+      ],
+      "comfort": "Completely painless. Most patients don't notice it at all. Some fluoride varnishes have a pleasant taste.",
+      "benefits": [
+        "Strengthens enamel against decay",
+        "Can reverse very early cavities",
+        "Reduces sensitivity in exposed root areas",
+        "Quick and completely non-invasive",
+        "Especially protective for children during enamel development"
+      ],
+      "risks": "Professional fluoride treatment is safe for all ages when applied in a clinical setting at recommended doses.",
+      "aftercare": {
+        "First 24 Hours": [
+          "Wait 30 minutes before eating or drinking after fluoride varnish",
+          "Avoid hot beverages for a few hours",
+          "Don't brush your teeth for 6 hours after varnish application — let fluoride fully absorb"
+        ],
+        "First Few Days": [
+          "Resume normal oral hygiene"
+        ],
+        "First Week": [
+          "Normal routine"
+        ],
+        "Long-Term Care": [
+          "Receive professional fluoride treatment at each regular dental visit",
+          "Use fluoride toothpaste daily at home"
+        ]
+      },
+      "url": "https://www.dentalclarity.org/#procedure/fluoride-treatment",
+      "verified": true
+    },
+    {
+      "id": "night-guard",
+      "name": "Night Guard / Occlusal Guard",
+      "category": "preventive",
+      "category_name": "Preventive Care",
+      "icon": "🌙",
+      "summary": "A custom-fitted oral appliance worn during sleep to protect teeth from the damage caused by nighttime clenching and grinding (bruxism).",
+      "duration": "45 min per visit",
+      "visits": "2 visits",
+      "painLevel": 0,
+      "keywords": [
+        "night guard",
+        "mouth guard",
+        "bruxism",
+        "grinding",
+        "clenching",
+        "TMJ",
+        "occlusal guard",
+        "splint"
+      ],
+      "overview": "A night guard (also called an occlusal guard or bite splint) is a custom-fitted removable dental appliance worn over the upper or lower teeth during sleep. It creates a protective barrier between your upper and lower teeth, absorbing the forces of grinding and clenching so your teeth, jaw muscles, and jaw joints are protected from wear and strain.",
+      "whyNeeded": "Bruxism (teeth grinding and clenching) affects an estimated 10–15% of adults, often during sleep without awareness. Over time, grinding can wear down and flatten tooth enamel, cause fractures, crack existing restorations, create significant jaw muscle pain, and contribute to temporomandibular joint (TMJ) disorders.",
+      "steps": [
+        {
+          "title": "Diagnosis",
+          "text": "Your dentist examines your teeth for wear facets, chips, and jaw muscle tenderness that indicate bruxism."
+        },
+        {
+          "title": "Impressions",
+          "text": "Detailed molds of your teeth are taken and sent to a lab that fabricates your custom-fitted guard."
+        },
+        {
+          "title": "Delivery and fitting",
+          "text": "At your second visit, the night guard is tried in and adjusted so it fits comfortably and your bite feels natural."
+        },
+        {
+          "title": "Instructions",
+          "text": "You're shown how to insert, remove, and care for your guard."
+        }
+      ],
+      "comfort": "Most patients adapt to sleeping with a night guard within a few nights. Initial awareness of the appliance is normal and typically diminishes within 1–2 weeks.",
+      "benefits": [
+        "Protects tooth enamel from grinding damage",
+        "Reduces jaw muscle soreness and headaches",
+        "Extends the life of crowns, fillings, and veneers",
+        "May reduce TMJ symptoms",
+        "Fully reversible — no permanent changes to your teeth"
+      ],
+      "risks": "Night guards are very safe. Poorly fitted guards can worsen symptoms in some TMJ conditions, which is why custom-fitted options from a dentist are preferable to over-the-counter alternatives. Some adjustment to the bite may be needed at follow-up.",
+      "aftercare": {
+        "First 24 Hours": [
+          "Wear the guard on the first night",
+          "Some initial drooling or mild discomfort is completely normal"
+        ],
+        "First Few Days": [
+          "Jaw muscles may feel slightly sore as you adjust",
+          "Most patients feel comfortable within 2–7 nights"
+        ],
+        "First Week": [
+          "Contact your dentist if the guard creates any sharp pressure points or significant bite discomfort — adjustments are quick and easy"
+        ],
+        "Long-Term Care": [
+          "Clean your guard daily with a toothbrush and cool water (never hot — it warps)",
+          "Store in the provided case when not in use",
+          "Bring it to dental appointments for inspection",
+          "Most guards last 3–7 years depending on grinding severity"
+        ]
+      },
+      "url": "https://www.dentalclarity.org/#procedure/night-guard",
+      "verified": true
+    },
+    {
+      "id": "dentures",
+      "name": "Complete Dentures",
+      "category": "restorative",
+      "category_name": "Restorative Dentistry",
+      "icon": "😄",
+      "summary": "Removable prosthetic replacements for all teeth in the upper or lower arch, restoring chewing function and facial appearance.",
+      "duration": "Process: 4–8 weeks",
+      "visits": "4–6 visits",
+      "painLevel": 20,
+      "keywords": [
+        "dentures",
+        "full dentures",
+        "false teeth",
+        "complete denture",
+        "upper denture",
+        "lower denture"
+      ],
+      "overview": "Complete dentures are removable prosthetics that replace all the teeth in the upper and/or lower jaw. They rest on the gum tissue and use suction (upper) or natural jaw contours (lower) to stay in place. Modern dentures are crafted to look natural and restore significant chewing ability and speech function.",
+      "whyNeeded": "Complete dentures are needed when all teeth in an arch have been lost or need to be removed due to advanced decay, severe gum disease, trauma, or other conditions. Without replacement, bone loss accelerates, facial structure changes, and chewing becomes extremely difficult.",
+      "steps": [
+        {
+          "title": "Initial consultation",
+          "text": "Your dental needs are assessed and a treatment plan is developed. Any remaining teeth to be extracted are removed, and healing time is allowed."
+        },
+        {
+          "title": "Impressions",
+          "text": "Detailed impressions of your gum ridges are taken in multiple stages to capture precise contours for optimal fit."
+        },
+        {
+          "title": "Bite registration",
+          "text": "Your natural bite relationship (jaw position) is recorded to ensure the dentures allow normal jaw movement."
+        },
+        {
+          "title": "Try-in",
+          "text": "A wax prototype of the dentures is tried in so you can evaluate appearance, tooth position, color, and fit before the final dentures are made."
+        },
+        {
+          "title": "Delivery and adjustments",
+          "text": "Final dentures are delivered and adjusted for comfort and fit. Multiple follow-up adjustments are normal and expected."
+        }
+      ],
+      "comfort": "New dentures take time to adapt to. Soreness, increased saliva, and minor speech changes are all normal in the first few weeks. Adjustments are typically needed as the gum tissue changes and settles after extractions.",
+      "benefits": [
+        "Restores the ability to chew a varied diet",
+        "Supports facial muscles and prevents a sunken appearance",
+        "Restores speech clarity affected by tooth loss",
+        "Improves self-confidence and quality of life",
+        "Removable for cleaning — no special dental procedures required"
+      ],
+      "risks": "Dentures require adaptation and do not feel like natural teeth. They may shift when eating certain foods. Bone resorption continues under dentures over time, requiring periodic relines or replacement. Implant-supported overdentures provide a more stable option if available.",
+      "aftercare": {
+        "First 24 Hours": [
+          "Wear your dentures as directed — your dentist may recommend keeping them in initially to reduce swelling",
+          "Eat soft foods only"
+        ],
+        "First Few Days": [
+          "Soreness under the dentures is normal — contact your dentist for adjustments, not adjustments on your own",
+          "Practice speaking in front of a mirror to rebuild confidence"
+        ],
+        "First Week": [
+          "Gum soreness should decrease with proper adjustments",
+          "Adhesive paste can be used temporarily for added retention"
+        ],
+        "Long-Term Care": [
+          "Remove and brush dentures daily with a soft brush and non-abrasive denture cleaner",
+          "Soak overnight in water or denture solution",
+          "Remove for sleep to rest gum tissues",
+          "Visit your dentist annually — your gum ridge changes over time, requiring relining every 2–5 years"
+        ]
+      },
+      "url": "https://www.dentalclarity.org/#procedure/dentures",
+      "verified": true
+    },
+    {
+      "id": "partial-dentures",
+      "name": "Partial Dentures",
+      "category": "restorative",
+      "category_name": "Restorative Dentistry",
+      "icon": "🦷",
+      "summary": "Removable appliances that replace multiple missing teeth while surrounding natural teeth remain in place, held by clasps.",
+      "duration": "3–6 weeks",
+      "visits": "3–5 visits",
+      "painLevel": 15,
+      "keywords": [
+        "partial denture",
+        "partial",
+        "removable bridge",
+        "missing teeth"
+      ],
+      "overview": "A partial denture is a removable dental appliance used to replace several missing teeth when some natural teeth remain. It consists of replacement teeth attached to a pink or gum-colored base, connected to your remaining teeth by metal clasps or precision attachments.",
+      "whyNeeded": "Partial dentures are recommended when multiple teeth are missing and implants or a fixed bridge are not feasible due to cost, bone availability, or number of missing teeth. They help restore chewing function, prevent remaining teeth from shifting into the gaps, and improve appearance.",
+      "steps": [
+        {
+          "title": "Impressions and bite records",
+          "text": "Detailed impressions and bite records are taken to create a custom appliance."
+        },
+        {
+          "title": "Framework try-in (metal partial)",
+          "text": "The metal framework is tried in for fit and clasp position before the teeth are added."
+        },
+        {
+          "title": "Try-in with teeth",
+          "text": "The partial with replacement teeth is evaluated for aesthetics and function."
+        },
+        {
+          "title": "Delivery",
+          "text": "The finished partial is delivered and adjusted for a secure, comfortable fit."
+        }
+      ],
+      "comfort": "New partial dentures require an adjustment period of 1–4 weeks. Clasps may feel noticeable initially. Sore spots are common at first and are corrected with adjustment visits.",
+      "benefits": [
+        "Restores chewing and speech",
+        "Prevents remaining teeth from drifting",
+        "More affordable than implants",
+        "Removable for cleaning",
+        "Can be modified if more teeth are lost in the future"
+      ],
+      "risks": "Clasps can put stress on the teeth they attach to over time. The appliance must be removed and cleaned daily. Bone resorption continues under the denture base. A flexible partial or implant-supported option may be recommended as an alternative.",
+      "aftercare": {
+        "First 24 Hours": [
+          "Wear the partial as directed",
+          "Expect some initial soreness and adaptation"
+        ],
+        "First Few Days": [
+          "Attend adjustment appointments as needed — soreness is corrected with precise adjustments, not by wearing the partial less"
+        ],
+        "First Week": [
+          "Speech and chewing improve as you adapt"
+        ],
+        "Long-Term Care": [
+          "Remove and clean daily with a soft denture brush",
+          "Soak overnight in a denture solution",
+          "Never use boiling water — it warps the acrylic",
+          "Bring to every dental visit for inspection and adjustments"
+        ]
+      },
+      "url": "https://www.dentalclarity.org/#procedure/partial-dentures",
+      "verified": true
+    },
+    {
+      "id": "dental-bridge",
+      "name": "Dental Bridge",
+      "category": "restorative",
+      "category_name": "Restorative Dentistry",
+      "icon": "🌉",
+      "summary": "A fixed restoration that spans a gap left by a missing tooth, anchored to the neighboring teeth on either side.",
+      "duration": "1–1.5 hr each visit",
+      "visits": "2 visits",
+      "painLevel": 25,
+      "keywords": [
+        "bridge",
+        "dental bridge",
+        "missing tooth",
+        "gap",
+        "fixed bridge",
+        "pontic"
+      ],
+      "overview": "A dental bridge literally 'bridges' the gap created by one or more missing teeth. It consists of two crowns on the anchor teeth (abutments) on either side of the gap, with one or more artificial teeth (pontics) suspended between them. The bridge is permanently cemented and functions like natural teeth.",
+      "whyNeeded": "Replacing a missing tooth is important not just for appearance and chewing — the teeth on either side of a gap tend to drift or tip into the space over time, causing bite problems. The bone underneath also begins to shrink. Bridges restore function, prevent shifting, and maintain facial structure.",
+      "steps": [
+        {
+          "title": "Preparation of anchor teeth",
+          "text": "The two neighboring teeth are prepared (shaped) to receive the bridge crowns, just like individual crown preparation."
+        },
+        {
+          "title": "Impressions",
+          "text": "Detailed molds are sent to the laboratory to fabricate the custom bridge."
+        },
+        {
+          "title": "Temporary bridge",
+          "text": "A temporary bridge protects the prepared teeth while the permanent bridge is made."
+        },
+        {
+          "title": "Fitting and cementation",
+          "text": "The permanent bridge is tried in, adjusted for fit and bite, and permanently cemented at your second visit."
+        }
+      ],
+      "comfort": "The procedure is performed under local anesthesia. Post-appointment sensitivity is similar to individual crowns and resolves within a few days to weeks.",
+      "benefits": [
+        "Restores appearance and chewing function",
+        "Prevents neighboring teeth from drifting",
+        "Fixed restoration — no removal needed",
+        "Typically more affordable than implants",
+        "Long-lasting — 10–15+ years with proper care"
+      ],
+      "risks": "Bridge preparation requires permanently altering the two neighboring teeth. If those teeth develop problems later, the bridge may need to be replaced. The area under the bridge (pontic) cannot be flossed conventionally — a floss threader or water flosser is needed to clean underneath.",
+      "aftercare": {
+        "First 24 Hours": [
+          "Avoid sticky or very hard foods on the bridge",
+          "Mild sensitivity is normal"
+        ],
+        "First Few Days": [
+          "Use sensitivity toothpaste if needed"
+        ],
+        "First Week": [
+          "The bridge should feel natural and comfortable"
+        ],
+        "Long-Term Care": [
+          "Use a floss threader, super floss, or water flosser to clean under the bridge daily — this is essential to prevent decay at the margins",
+          "Attend regular dental cleanings where the bridge will be professionally cleaned and inspected"
+        ]
+      },
+      "url": "https://www.dentalclarity.org/#procedure/dental-bridge",
+      "verified": true
+    },
+    {
+      "id": "bone-graft",
+      "name": "Dental Bone Graft",
+      "category": "surgical",
+      "category_name": "Surgical Procedures",
+      "icon": "🦴",
+      "summary": "A procedure that adds bone material to a deficient area of the jaw to rebuild volume needed for implants or to stop bone loss.",
+      "duration": "45–90 min",
+      "visits": "1 (healing: 3–6 months)",
+      "painLevel": 45,
+      "keywords": [
+        "bone graft",
+        "bone grafting",
+        "jaw bone",
+        "implant preparation",
+        "ridge augmentation"
+      ],
+      "overview": "A dental bone graft is a surgical procedure that adds bone material — from your own body, a donor, an animal source, or a synthetic material — to an area of the jaw that has insufficient bone. This rebuilds the foundation needed to support a dental implant or to prevent further structural deterioration of the jaw.",
+      "whyNeeded": "Bone loss in the jaw occurs after tooth extraction, from untreated gum disease, or from trauma. Without enough bone height and width, implants cannot be placed safely. A bone graft is often the essential first step before implant placement.",
+      "steps": [
+        {
+          "title": "Anesthesia and incision",
+          "text": "Local anesthesia (with sedation available) numbs the area. A small incision exposes the deficient bone site."
+        },
+        {
+          "title": "Site preparation",
+          "text": "The area is cleaned and prepared to receive the graft material."
+        },
+        {
+          "title": "Graft placement",
+          "text": "Bone material is placed at the deficient site and packed firmly. A barrier membrane may be placed over the graft to protect it."
+        },
+        {
+          "title": "Closure",
+          "text": "The gum is carefully closed over the graft with sutures."
+        },
+        {
+          "title": "Healing period",
+          "text": "Over 3–6 months, your body remodels the graft material into your own natural bone."
+        }
+      ],
+      "comfort": "The procedure is performed under local anesthesia with sedation options available. Post-surgical soreness and swelling are expected for several days. Most patients manage comfortably with prescribed medications and OTC pain relievers.",
+      "benefits": [
+        "Creates the bone foundation needed for implant placement",
+        "Preserves existing bone at an extraction site",
+        "Prevents the facial changes associated with severe bone loss",
+        "Enables implants in patients who otherwise would not qualify"
+      ],
+      "risks": "Bone grafts are generally very successful. Considerations include infection, membrane exposure, incomplete graft integration, and healing complications (more common in smokers and diabetics). Following aftercare instructions significantly improves outcomes.",
+      "aftercare": {
+        "First 24 Hours": [
+          "Keep pressure on gauze as directed",
+          "Apply ice packs for swelling",
+          "Avoid disturbing the surgical site",
+          "Soft diet only"
+        ],
+        "First Few Days": [
+          "Take all prescribed medications on schedule",
+          "Rinse gently with salt water or prescribed mouthwash",
+          "Avoid tobacco at all costs — it severely impairs bone healing"
+        ],
+        "First Week": [
+          "Avoid the grafted area while eating",
+          "Keep stitches clean and undisturbed"
+        ],
+        "Long-Term Care": [
+          "Follow the treatment timeline — don't rush implant placement before full integration",
+          "Attend follow-up imaging appointments to verify graft success"
+        ]
+      },
+      "url": "https://www.dentalclarity.org/#procedure/bone-graft",
+      "verified": true
+    },
+    {
+      "id": "gum-graft",
+      "name": "Gum Graft",
+      "category": "periodontal",
+      "category_name": "Periodontal Treatments",
+      "icon": "🌿",
+      "summary": "A surgical procedure that adds gum tissue to areas where recession has exposed the tooth root, reducing sensitivity and preventing further recession.",
+      "duration": "1–2 hr",
+      "visits": "2–3 visits",
+      "painLevel": 45,
+      "keywords": [
+        "gum graft",
+        "gum recession",
+        "exposed root",
+        "receding gums",
+        "soft tissue graft",
+        "connective tissue graft"
+      ],
+      "overview": "A gum graft (soft tissue graft) is a periodontal surgical procedure that adds gum tissue to areas where the gums have pulled away (receded) from the teeth, exposing the root surface. This addresses sensitivity, improves aesthetics, and protects the root from further damage.",
+      "whyNeeded": "Gum recession can be caused by aggressive brushing, periodontal disease, genetics, or orthodontic treatment. Exposed roots are vulnerable to decay and sensitivity. Without intervention, recession can progress to the point where tooth loss occurs.",
+      "steps": [
+        {
+          "title": "Consultation and planning",
+          "text": "The extent of recession is mapped and the type of graft is selected."
+        },
+        {
+          "title": "Donor tissue harvesting",
+          "text": "Tissue is taken from the roof of the mouth (palate) or from a donor source. Palatal harvesting uses a small incision that heals quickly."
+        },
+        {
+          "title": "Site preparation",
+          "text": "The recipient site at the recession area is prepared to receive the graft."
+        },
+        {
+          "title": "Graft placement and suturing",
+          "text": "The tissue is carefully positioned to cover the exposed root and sutured into place."
+        },
+        {
+          "title": "Healing and integration",
+          "text": "Over 2–4 weeks, the grafted tissue integrates and the root coverage becomes permanent."
+        }
+      ],
+      "comfort": "Both the donor and recipient sites are numbed with local anesthesia. The palatal donor site is typically the most sensitive area during recovery — similar to how your mouth feels after burning it on hot food. Discomfort is manageable with prescribed medication.",
+      "benefits": [
+        "Covers exposed roots, reducing sensitivity",
+        "Protects roots from decay and further recession",
+        "Improves the aesthetics of a 'long-toothed' smile",
+        "Stabilizes the gumline for long-term health",
+        "Often delivers permanent results when the cause of recession is addressed"
+      ],
+      "risks": "Gum grafts are predictable procedures with high success rates. Considerations include post-surgical sensitivity at both sites, rare graft failure requiring re-treatment, and mild color variation where graft meets original tissue initially.",
+      "aftercare": {
+        "First 24 Hours": [
+          "Eat only soft, cool foods",
+          "Apply ice packs for swelling",
+          "Take prescribed pain medication"
+        ],
+        "First Few Days": [
+          "Avoid spicy, hard, or crunchy foods",
+          "Do not brush the grafted area — rinse gently with prescribed mouthwash",
+          "Rest; avoid strenuous physical activity for 3–5 days"
+        ],
+        "First Week": [
+          "Sutures are typically removed at a follow-up visit",
+          "Palatal soreness and moderate sensitivity are normal and will improve steadily"
+        ],
+        "Long-Term Care": [
+          "Use a soft-bristled toothbrush and gentle technique to prevent future recession",
+          "Continue regular periodontal maintenance appointments",
+          "Address any nighttime grinding if it contributed to recession"
+        ]
+      },
+      "url": "https://www.dentalclarity.org/#procedure/gum-graft",
+      "verified": true
+    },
+    {
+      "id": "gum-contouring",
+      "name": "Gum Contouring",
+      "category": "cosmetic",
+      "category_name": "Cosmetic Dentistry",
+      "icon": "✨",
+      "summary": "A cosmetic procedure that reshapes excess or uneven gum tissue to create a more balanced, aesthetic smile.",
+      "duration": "1–2 hr",
+      "visits": "1–2 visits",
+      "painLevel": 20,
+      "keywords": [
+        "gum contouring",
+        "gummy smile",
+        "gum reshaping",
+        "gum lift",
+        "crown lengthening cosmetic"
+      ],
+      "overview": "Gum contouring (gingival sculpting) removes or reshapes excess gum tissue to improve the balance between the teeth and gums. If you have a 'gummy smile' (too much gum showing) or uneven gumline, contouring can create a more proportional, aesthetically pleasing appearance.",
+      "whyNeeded": "Some patients naturally have more gum tissue covering the teeth, making teeth appear short. In other cases, gum tissue is uneven, making the smile look asymmetrical. Contouring addresses these concerns and is sometimes combined with veneers or crowns as part of a complete smile makeover.",
+      "steps": [
+        {
+          "title": "Local anesthesia",
+          "text": "The gum tissue is numbed completely."
+        },
+        {
+          "title": "Marking the new gumline",
+          "text": "The desired new gumline is marked symmetrically."
+        },
+        {
+          "title": "Tissue removal",
+          "text": "A soft tissue laser or surgical instrument precisely removes the excess gum tissue."
+        },
+        {
+          "title": "Evaluation",
+          "text": "The result is evaluated for symmetry and aesthetics."
+        }
+      ],
+      "comfort": "Performed under local anesthesia — no pain during the procedure. Post-treatment sensitivity and mild soreness last 1–5 days.",
+      "benefits": [
+        "Creates a more balanced, proportional smile",
+        "Can make teeth appear longer",
+        "Quick results — immediately visible improvement",
+        "Laser-performed procedures have minimal bleeding and faster healing"
+      ],
+      "risks": "Gum contouring is irreversible — removed tissue does not regrow. Proper planning is essential. Some temporary sensitivity and gum tenderness are expected during healing.",
+      "aftercare": {
+        "First 24 Hours": [
+          "Eat soft, cool foods",
+          "Avoid hot foods and spicy substances",
+          "Take OTC pain relievers as needed"
+        ],
+        "First Few Days": [
+          "Rinse gently with salt water",
+          "Avoid hard or crunchy foods",
+          "Brush very gently around contoured areas"
+        ],
+        "First Week": [
+          "Gum color and texture normalize within 1–2 weeks"
+        ],
+        "Long-Term Care": [
+          "Maintain excellent gum health with brushing and flossing",
+          "Regular cleanings prevent the buildup that can affect gum appearance"
+        ]
+      },
+      "url": "https://www.dentalclarity.org/#procedure/gum-contouring",
+      "verified": true
+    },
+    {
+      "id": "crown-lengthening",
+      "name": "Crown Lengthening",
+      "category": "surgical",
+      "category_name": "Surgical Procedures",
+      "icon": "⚕",
+      "summary": "A surgical procedure that exposes more tooth structure by reshaping gum and bone tissue, enabling a crown to be properly placed.",
+      "duration": "30–90 min",
+      "visits": "1–2 visits",
+      "painLevel": 35,
+      "keywords": [
+        "crown lengthening",
+        "expose tooth",
+        "gum surgery",
+        "tooth broken at gumline"
+      ],
+      "overview": "Crown lengthening is a surgical procedure that removes a small amount of gum tissue and sometimes bone to expose more of a tooth's structure. It's most commonly performed when a tooth has broken off near the gumline or when decay extends below the gum, making it impossible to properly place a crown without this preparation step.",
+      "whyNeeded": "For a crown to fit properly and be maintainable, there must be enough tooth structure above the gumline. Crown lengthening creates this space, making a restorative crown possible in situations where it otherwise couldn't be placed reliably.",
+      "steps": [
+        {
+          "title": "Local anesthesia",
+          "text": "The area is thoroughly numbed."
+        },
+        {
+          "title": "Incision and tissue removal",
+          "text": "Gum tissue is incised and repositioned to expose the underlying tooth and bone."
+        },
+        {
+          "title": "Bone reshaping",
+          "text": "In many cases, a small amount of surrounding bone is also reshaped to create adequate space."
+        },
+        {
+          "title": "Suturing",
+          "text": "The gums are sutured into their new position."
+        },
+        {
+          "title": "Healing period",
+          "text": "6–8 weeks of healing is needed before a final crown can be placed."
+        }
+      ],
+      "comfort": "The procedure is done under local anesthesia. Post-surgical soreness and gum tenderness are expected for 1–2 weeks, managed with prescribed medication.",
+      "benefits": [
+        "Makes crown placement possible when it otherwise wouldn't be",
+        "Saves a tooth that might otherwise require extraction",
+        "Creates proper conditions for a long-lasting restoration"
+      ],
+      "risks": "Temporary sensitivity to cold, bleeding, and swelling are common. Permanent changes to the gumline around the treated tooth are expected.",
+      "aftercare": {
+        "First 24 Hours": [
+          "Soft diet; avoid the surgical site",
+          "Ice pack application for swelling",
+          "Take medications as prescribed"
+        ],
+        "First Few Days": [
+          "Salt water rinses",
+          "Avoid tobacco and strenuous activity"
+        ],
+        "First Week": [
+          "Suture removal at follow-up appointment"
+        ],
+        "Long-Term Care": [
+          "Allow full 6–8 weeks before crown preparation",
+          "Maintain excellent hygiene at the treated area"
+        ]
+      },
+      "url": "https://www.dentalclarity.org/#procedure/crown-lengthening",
+      "verified": true
+    },
+    {
+      "id": "orthodontic-consultation",
+      "name": "Orthodontic Consultation",
+      "category": "orthodontic",
+      "category_name": "Orthodontics",
+      "icon": "😁",
+      "summary": "A comprehensive evaluation by an orthodontist to assess your bite, alignment, and smile — and discuss treatment options.",
+      "duration": "60–90 min",
+      "visits": "1 visit",
+      "painLevel": 0,
+      "keywords": [
+        "orthodontic consultation",
+        "orthodontist",
+        "braces",
+        "alignment",
+        "crooked teeth",
+        "consultation",
+        "bite evaluation"
+      ],
+      "overview": "An orthodontic consultation is the starting point for any teeth-straightening journey. The orthodontist performs a thorough examination of your teeth, bite, and facial structure, takes records (X-rays, photos, and 3D scans), and presents a detailed treatment plan with all available options and expected outcomes.",
+      "whyNeeded": "Misaligned teeth (malocclusion) affect not just aesthetics — they can cause uneven wear, jaw pain, difficulty cleaning, and speech issues. An orthodontic consultation determines the nature and severity of the misalignment and identifies the most appropriate, efficient treatment approach.",
+      "steps": [
+        {
+          "title": "Medical and dental history review",
+          "text": "A comprehensive review of your health history and any previous dental treatment."
+        },
+        {
+          "title": "Clinical examination",
+          "text": "Evaluation of your teeth, jaw position, bite relationship, and facial symmetry."
+        },
+        {
+          "title": "Records",
+          "text": "Panoramic and cephalometric X-rays, intraoral photos, and digital scans or molds capture the exact state of your teeth and jaws."
+        },
+        {
+          "title": "Analysis",
+          "text": "The orthodontist analyzes all records to identify specific issues and their causes."
+        },
+        {
+          "title": "Treatment presentation",
+          "text": "A detailed treatment plan is presented, including options, expected duration, costs, and what to expect during and after treatment."
+        }
+      ],
+      "comfort": "An orthodontic consultation is non-invasive and completely comfortable. No procedures are performed at this visit.",
+      "benefits": [
+        "Provides a clear picture of your orthodontic needs",
+        "Explores all treatment options (braces, aligners, etc.)",
+        "Establishes a personalized timeline and cost plan",
+        "Answers all your questions before committing to treatment"
+      ],
+      "risks": "No risks — this is a consultation only.",
+      "aftercare": {
+        "First 24 Hours": [
+          "No aftercare required — this is a consultation"
+        ],
+        "First Few Days": [
+          "Review the treatment plan provided"
+        ],
+        "First Week": [
+          "Ask any follow-up questions you think of"
+        ],
+        "Long-Term Care": [
+          "Begin treatment when ready — earlier treatment in growing patients often yields better results"
+        ]
+      },
+      "url": "https://www.dentalclarity.org/#procedure/orthodontic-consultation",
+      "verified": true
+    },
+    {
+      "id": "clear-aligners",
+      "name": "Clear Aligners",
+      "category": "orthodontic",
+      "category_name": "Orthodontics",
+      "icon": "😁",
+      "summary": "A series of custom-made, removable clear plastic trays that gradually straighten teeth — a virtually invisible alternative to braces.",
+      "duration": "12–24 months",
+      "visits": "Every 6–8 weeks",
+      "painLevel": 15,
+      "keywords": [
+        "clear aligners",
+        "Invisalign",
+        "aligners",
+        "invisible braces",
+        "clear braces",
+        "trays",
+        "straighten teeth"
+      ],
+      "overview": "Clear aligner therapy uses a series of custom-made, removable transparent trays to progressively move teeth into their ideal positions. Each set of aligners is worn for approximately 1–2 weeks before being replaced with the next set in the series. Treatment is planned digitally before it begins, so you and your orthodontist can visualize the expected outcome.",
+      "whyNeeded": "Clear aligners are an excellent option for mild to moderate misalignment, crowding, spacing issues, and certain bite corrections. They're especially popular with adults and older teens who prefer a discreet treatment option.",
+      "steps": [
+        {
+          "title": "Digital planning",
+          "text": "3D scans of your teeth are used to create a computer-animated treatment plan showing every movement from start to finish."
+        },
+        {
+          "title": "Aligner fabrication",
+          "text": "A full series of custom-made aligners is produced — typically 20–50+ sets depending on treatment complexity."
+        },
+        {
+          "title": "Attachment placement",
+          "text": "Small tooth-colored 'buttons' (attachments) may be bonded to some teeth to help aligners grip and guide specific movements."
+        },
+        {
+          "title": "Progressive wear",
+          "text": "You wear each set of aligners for 20–22 hours per day, removing them only to eat, drink anything other than water, brush, and floss."
+        },
+        {
+          "title": "Progress monitoring",
+          "text": "Regular check-in appointments (every 6–8 weeks) allow your orthodontist to ensure teeth are tracking according to plan."
+        },
+        {
+          "title": "Retention",
+          "text": "After the final aligner, retainers are worn to hold your new alignment permanently."
+        }
+      ],
+      "comfort": "The first few days with a new aligner set are typically the most uncomfortable — pressure and tightness indicate the teeth are moving. This usually becomes barely noticeable within 2–3 days. Aligners don't cause the mouth irritation that metal braces sometimes create.",
+      "benefits": [
+        "Nearly invisible — most people won't notice you're in treatment",
+        "Removable for eating, drinking, brushing, and special occasions",
+        "Smooth plastic doesn't irritate gums or cheeks",
+        "Digital planning lets you see your expected result before starting",
+        "Easier to maintain oral hygiene than fixed braces"
+      ],
+      "risks": "Success depends heavily on wearing aligners 20–22 hours daily — compliance is critical. Some cases require additional refinements. Complex bite corrections may be better addressed with traditional braces. Retainers must be worn long-term after treatment to prevent relapse.",
+      "aftercare": {
+        "First 24 Hours": [
+          "Wear the first aligners for the full 22 hours",
+          "Pressure is normal — it means the aligners are working"
+        ],
+        "First Few Days": [
+          "Take OTC pain relievers if soreness is bothersome",
+          "Use chewies (small foam cylinders) to help seat aligners fully"
+        ],
+        "First Week": [
+          "Adapt to speaking with aligners — this improves within days"
+        ],
+        "Long-Term Care": [
+          "Wear retainers as directed after treatment — initially full-time, then nightly long-term",
+          "Clean aligners with a toothbrush and cool water or aligner cleaner",
+          "Never eat or drink (except water) while wearing aligners"
+        ]
+      },
+      "url": "https://www.dentalclarity.org/#procedure/clear-aligners",
+      "verified": true
+    },
+    {
+      "id": "pediatric-cleaning",
+      "name": "Pediatric Dental Cleaning",
+      "category": "pediatric",
+      "category_name": "Pediatric Dentistry",
+      "icon": "👦",
+      "summary": "A gentle, child-friendly dental cleaning that removes plaque and tartar while building positive dental habits from an early age.",
+      "duration": "30–45 min",
+      "visits": "Every 6 months",
+      "painLevel": 0,
+      "keywords": [
+        "pediatric cleaning",
+        "kids cleaning",
+        "child dental",
+        "baby teeth cleaning",
+        "children dentist"
+      ],
+      "overview": "A pediatric dental cleaning is a routine preventive appointment specifically designed for children. Pediatric dentists and hygienists use gentle techniques, child-friendly language ('tell-show-do'), and a patient approach to make the experience positive — building trust and reducing dental anxiety that can last a lifetime.",
+      "whyNeeded": "Baby teeth matter — they hold space for permanent teeth, support speech development, and affect self-confidence. Even though they're temporary, cavities in baby teeth cause pain, infection, and can affect the developing permanent teeth beneath. Regular professional cleanings catch problems early and reinforce good habits at home.",
+      "steps": [
+        {
+          "title": "Welcome and orientation",
+          "text": "The hygienist introduces each instrument using child-friendly descriptions ('Mr. Thirsty' for the suction, 'tooth tickler' for the scaler)."
+        },
+        {
+          "title": "Plaque removal",
+          "text": "Soft-touch scalers remove any tartar or hardened plaque, especially around the back teeth and gumline."
+        },
+        {
+          "title": "Polishing",
+          "text": "A rotating rubber cup with flavored polishing paste gently cleans and shines each tooth."
+        },
+        {
+          "title": "Flossing",
+          "text": "Spaces between teeth are cleaned and the hygienist checks for any tight contacts."
+        },
+        {
+          "title": "Fluoride treatment",
+          "text": "A fluoride varnish is applied to strengthen enamel — it's fast, painless, and has a pleasant taste."
+        },
+        {
+          "title": "Exam",
+          "text": "The dentist checks all teeth, gum health, jaw development, and the eruption pattern of permanent teeth."
+        }
+      ],
+      "comfort": "Pediatric cleanings are designed to be completely comfortable and positive. Dentists trained in pediatric care excel at keeping children relaxed and engaged throughout the visit.",
+      "benefits": [
+        "Prevents cavities and gum disease in developing teeth",
+        "Detects problems early",
+        "Fluoride treatment significantly reduces cavity risk",
+        "Builds a positive relationship with dental care",
+        "Provides parent education on brushing, diet, and habits"
+      ],
+      "risks": "No significant risks. Some children experience brief sensitivity if early decay areas are present.",
+      "aftercare": {
+        "First 24 Hours": [
+          "No food or drink for 30 minutes after fluoride varnish",
+          "Avoid hard or sticky foods"
+        ],
+        "First Few Days": [
+          "Reinforce the brushing technique taught at the visit"
+        ],
+        "First Week": [
+          "Normal routine"
+        ],
+        "Long-Term Care": [
+          "Schedule cleanings every 6 months",
+          "Brush twice daily with age-appropriate fluoride toothpaste",
+          "Limit sugary snacks and drinks between meals",
+          "First visit should occur by age 1 or within 6 months of the first tooth"
+        ]
+      },
+      "url": "https://www.dentalclarity.org/#procedure/pediatric-cleaning",
+      "verified": true
+    },
+    {
+      "id": "pulpotomy",
+      "name": "Pulpotomy (Baby Tooth Root Canal)",
+      "category": "pediatric",
+      "category_name": "Pediatric Dentistry",
+      "icon": "👦",
+      "summary": "Removal of the infected pulp from the crown portion of a baby tooth to relieve pain and save the tooth until it falls out naturally.",
+      "duration": "45–60 min",
+      "visits": "1 visit",
+      "painLevel": 25,
+      "keywords": [
+        "pulpotomy",
+        "baby root canal",
+        "primary tooth",
+        "kids root canal",
+        "nerve baby tooth",
+        "infected baby tooth"
+      ],
+      "overview": "A pulpotomy — sometimes called a 'baby root canal' — removes the infected or inflamed portion of the pulp in the crown of a baby tooth while leaving the root pulp intact. A medicated material is placed to calm the remaining tissue, and the tooth is then restored with a stainless steel crown. This saves the baby tooth until it's ready to fall out naturally.",
+      "whyNeeded": "Baby teeth are often treated rather than extracted because they play a critical role in holding space for the permanent teeth beneath them. Premature loss of baby teeth can lead to crowding and misalignment of permanent teeth. A pulpotomy saves the tooth and prevents pain and infection from spreading.",
+      "steps": [
+        {
+          "title": "Anesthesia",
+          "text": "Local anesthesia and nitrous oxide (laughing gas) are commonly used to keep children comfortable and calm."
+        },
+        {
+          "title": "Access opening",
+          "text": "The dentist creates a small opening through the top of the tooth."
+        },
+        {
+          "title": "Pulp removal",
+          "text": "Only the portion of the pulp in the crown of the tooth is removed."
+        },
+        {
+          "title": "Medication placement",
+          "text": "A medicated material is placed to treat the remaining root pulp and prevent further infection."
+        },
+        {
+          "title": "Crown placement",
+          "text": "A stainless steel crown is placed over the tooth immediately to protect it and restore full function."
+        }
+      ],
+      "comfort": "Local anesthesia combined with nitrous oxide makes the procedure comfortable for most children. The dentist and assistant use child-friendly language and behavior management techniques throughout.",
+      "benefits": [
+        "Saves the baby tooth until natural shedding",
+        "Relieves pain and infection",
+        "Prevents space loss and future orthodontic problems",
+        "Stainless steel crown provides durable protection",
+        "Quick healing — children typically bounce back within a day"
+      ],
+      "risks": "Success rates are high. In cases of severe infection, the tooth may still require extraction. The stainless steel crown is noticeable on back teeth but is often preferable to the alternatives.",
+      "aftercare": {
+        "First 24 Hours": [
+          "Soft foods only; avoid the treated side",
+          "Take prescribed or recommended pain reliever as needed"
+        ],
+        "First Few Days": [
+          "Resume normal activity by day 1–2",
+          "The tooth may feel slightly different — this is normal"
+        ],
+        "First Week": [
+          "Normal brushing around the stainless steel crown"
+        ],
+        "Long-Term Care": [
+          "The crown will eventually come out with the baby tooth when it naturally falls out",
+          "Keep the area clean and attend regular dental appointments"
+        ]
+      },
+      "url": "https://www.dentalclarity.org/#procedure/pulpotomy",
+      "verified": true
+    },
+    {
+      "id": "space-maintainer",
+      "name": "Space Maintainer",
+      "category": "pediatric",
+      "category_name": "Pediatric Dentistry",
+      "icon": "👦",
+      "summary": "A custom appliance placed in a child's mouth after a baby tooth is lost early, holding the space open for the permanent tooth to erupt properly.",
+      "duration": "30–45 min",
+      "visits": "1–2 visits",
+      "painLevel": 0,
+      "keywords": [
+        "space maintainer",
+        "baby tooth lost",
+        "space holder",
+        "early tooth loss",
+        "permanent tooth space"
+      ],
+      "overview": "When a baby tooth is lost earlier than expected — due to decay, trauma, or extraction — neighboring teeth can drift into the gap, blocking the path of the incoming permanent tooth. A space maintainer is a simple appliance (usually a band with a small loop or wire) that holds the gap open until the permanent tooth is ready to erupt.",
+      "whyNeeded": "Without a space maintainer, a lost baby tooth can result in significant crowding and misalignment of permanent teeth, sometimes requiring extensive orthodontic treatment later. Space maintainers are a cost-effective preventive measure.",
+      "steps": [
+        {
+          "title": "Impressions or fitting",
+          "text": "A band-and-loop or other design is fabricated from impressions or fitted chairside."
+        },
+        {
+          "title": "Cementation",
+          "text": "The appliance is cemented onto the adjacent tooth at a quick, painless appointment."
+        },
+        {
+          "title": "Monitoring",
+          "text": "The space maintainer is monitored at regular visits until the permanent tooth erupts naturally."
+        }
+      ],
+      "comfort": "Placement is painless. Children adapt quickly, usually within a few days.",
+      "benefits": [
+        "Prevents costly orthodontic problems caused by early tooth loss",
+        "Passive — children barely notice it after a few days",
+        "Guides permanent teeth into proper position"
+      ],
+      "risks": "Food can accumulate around the appliance, requiring careful brushing. Appliances can occasionally loosen or break with hard foods. Regular monitoring ensures they're functioning properly.",
+      "aftercare": {
+        "First 24 Hours": [
+          "Avoid sticky foods (gum, caramel)",
+          "Check that the appliance feels secure"
+        ],
+        "First Few Days": [
+          "Normal diet (avoiding very sticky or very hard foods)",
+          "Brush around the appliance carefully"
+        ],
+        "First Week": [
+          "Fully adapted to the appliance"
+        ],
+        "Long-Term Care": [
+          "Attend regular appointments for monitoring",
+          "Appliance is removed when the permanent tooth begins to erupt — this is often done at a routine visit"
+        ]
+      },
+      "url": "https://www.dentalclarity.org/#procedure/space-maintainer",
+      "verified": true
+    },
+    {
+      "id": "emergency-exam",
+      "name": "Emergency Dental Exam",
+      "category": "emergency",
+      "category_name": "Emergency Dental Care",
+      "icon": "🚨",
+      "summary": "An urgent evaluation for acute dental pain, swelling, trauma, or broken teeth — providing immediate relief and a treatment plan.",
+      "duration": "30–60 min",
+      "visits": "1 visit (with follow-up)",
+      "painLevel": 0,
+      "keywords": [
+        "emergency",
+        "dental emergency",
+        "broken tooth",
+        "tooth pain",
+        "abscess",
+        "swelling",
+        "knocked out tooth",
+        "emergency exam"
+      ],
+      "overview": "A dental emergency exam is a priority appointment designed to evaluate and immediately address acute dental problems. Whether you're in severe pain, have a broken tooth, a knocked-out tooth, facial swelling, or a dental abscess, an emergency exam gets you the assessment and relief you need as quickly as possible.",
+      "whyNeeded": "Dental emergencies don't wait for regular office hours. Untreated dental infections can spread to the jaw, neck, or airway — a potentially life-threatening situation. Prompt evaluation determines the source of the problem and initiates the appropriate treatment to provide relief and prevent complications.",
+      "steps": [
+        {
+          "title": "Assessment and history",
+          "text": "The dentist takes a focused history of when the problem started, what triggered it, and the nature of the pain or trauma."
+        },
+        {
+          "title": "Emergency X-rays",
+          "text": "Targeted X-rays quickly identify fractures, infections, abscesses, or bone loss around the affected tooth."
+        },
+        {
+          "title": "Examination",
+          "text": "The affected tooth and surrounding tissues are examined carefully."
+        },
+        {
+          "title": "Immediate treatment",
+          "text": "Depending on findings, immediate treatment may include: temporary filling of a broken tooth, incision and drainage of an abscess, stabilization of a loose tooth, or prescription of antibiotics and pain medication."
+        },
+        {
+          "title": "Treatment plan",
+          "text": "A definitive treatment plan is established for follow-up care to fully resolve the underlying problem."
+        }
+      ],
+      "comfort": "Managing your pain and discomfort is the first priority of an emergency visit. Local anesthesia is used for any procedures. Pain medication or antibiotics are prescribed as needed.",
+      "benefits": [
+        "Immediate assessment and relief",
+        "Prevents the spread of infection",
+        "Stabilizes traumatic injuries",
+        "Provides a clear next-step treatment plan",
+        "Reduces anxiety through answers and action"
+      ],
+      "risks": "The emergency exam itself carries no significant risk. Untreated dental emergencies, however, carry serious risks — infection, tooth loss, and in severe cases, systemic spread of infection.",
+      "aftercare": {
+        "First 24 Hours": [
+          "Take all prescribed medications (antibiotics and/or pain relief) as directed",
+          "Follow all specific instructions provided by your dentist — these vary based on the nature of the emergency",
+          "Apply ice packs if swelling is present",
+          "Rest and avoid triggers that worsen discomfort"
+        ],
+        "First Few Days": [
+          "Swelling and pain should begin to improve if on antibiotics — improvement is usually noticeable within 24–48 hours",
+          "Complete all antibiotic courses even if feeling better"
+        ],
+        "First Week": [
+          "Attend your follow-up appointment to complete definitive treatment"
+        ],
+        "Long-Term Care": [
+          "Follow through with the definitive treatment plan (root canal, crown, extraction, etc.)",
+          "Regular dental care helps prevent future emergencies"
+        ]
+      },
+      "url": "https://www.dentalclarity.org/#procedure/emergency-exam",
+      "verified": true
+    },
+    {
+      "id": "oral-cancer-screening",
+      "name": "Oral Cancer Screening",
+      "category": "preventive",
+      "category_name": "Preventive Care",
+      "icon": "🔍",
+      "summary": "A routine visual and physical examination that checks for early signs of oral cancer or precancerous changes in the mouth.",
+      "duration": "10–15 min (part of comprehensive exam)",
+      "visits": "1 visit",
+      "painLevel": 0,
+      "keywords": [
+        "oral cancer",
+        "cancer screening",
+        "mouth cancer",
+        "lesion",
+        "biopsy",
+        "screening",
+        "oral exam"
+      ],
+      "overview": "An oral cancer screening is a quick, painless examination performed by your dentist to check for signs of cancer or precancerous conditions in the mouth, throat, and lips. It's typically performed as part of a routine dental examination and is one of the most valuable early-detection tools available.",
+      "whyNeeded": "Oral cancer is significantly more treatable when detected early. Risk factors include tobacco use, heavy alcohol consumption, HPV infection, prolonged sun exposure (lip cancer), and a personal history of oral cancer. Annual screenings allow suspicious changes to be identified and evaluated before they progress.",
+      "steps": [
+        {
+          "title": "Visual examination",
+          "text": "The dentist examines all soft tissue surfaces inside your mouth — lips, cheeks, gums, tongue, floor of mouth, and roof of mouth — looking for unusual color changes, lumps, or sores."
+        },
+        {
+          "title": "Manual palpation",
+          "text": "The dentist gently presses on tissues to feel for lumps, hardness, or tenderness that may not be visible."
+        },
+        {
+          "title": "Neck exam",
+          "text": "The lymph nodes in the neck are gently palpated for unusual enlargement."
+        },
+        {
+          "title": "Adjunctive tools (optional)",
+          "text": "Special lights or dyes may be used to highlight tissue irregularities not visible to the naked eye."
+        },
+        {
+          "title": "Documentation and referral",
+          "text": "Any suspicious findings are documented. A biopsy referral may be arranged if needed — early evaluation is always the safest approach."
+        }
+      ],
+      "comfort": "Oral cancer screening is entirely painless and non-invasive. It adds just a few minutes to your regular dental appointment.",
+      "benefits": [
+        "Early detection dramatically improves survival rates",
+        "Completely painless and non-invasive",
+        "Takes only minutes as part of your routine exam",
+        "Provides peace of mind",
+        "Identifies early precancerous changes when intervention is most effective"
+      ],
+      "risks": "No risks from the screening itself. Suspicious lesions will require a biopsy to confirm whether they are concerning — this is a follow-up procedure with minimal risk.",
+      "aftercare": {
+        "First 24 Hours": [
+          "No aftercare required"
+        ],
+        "First Few Days": [
+          "Report any new sores, lumps, or changes to your dentist promptly"
+        ],
+        "First Week": [
+          "Normal routine"
+        ],
+        "Long-Term Care": [
+          "Include oral cancer screening at every dental examination",
+          "Perform monthly self-examinations of your mouth at home — look and feel for changes",
+          "Reduce risk factors: avoid tobacco, limit alcohol, ask your doctor about HPV vaccination"
+        ]
+      },
+      "url": "https://www.dentalclarity.org/#procedure/oral-cancer-screening",
+      "verified": true
+    },
+    {
+      "id": "inlay-onlay",
+      "name": "Inlay / Onlay",
+      "category": "restorative",
+      "category_name": "Restorative Dentistry",
+      "icon": "🔵",
+      "summary": "Custom-made ceramic or gold restorations that fit precisely within or over damaged tooth cusps — stronger than a filling, less invasive than a crown.",
+      "duration": "1 hr per visit",
+      "visits": "2 visits",
+      "painLevel": 20,
+      "keywords": [
+        "inlay",
+        "onlay",
+        "indirect restoration",
+        "partial crown",
+        "ceramic inlay",
+        "gold onlay"
+      ],
+      "overview": "Inlays and onlays are custom-made restorations fabricated in a dental laboratory from porcelain, ceramic, composite resin, or gold. An inlay fits within the cusps of a tooth like a puzzle piece, while an onlay extends to cover one or more cusps. They're ideal for teeth with moderate damage — too extensive for a filling but not requiring a full crown.",
+      "whyNeeded": "When tooth damage or decay is too large for a filling to reliably repair, but the remaining tooth structure is strong enough that a full crown isn't necessary, an inlay or onlay provides the perfect middle ground. They restore function and aesthetics with outstanding long-term durability.",
+      "steps": [
+        {
+          "title": "Preparation",
+          "text": "The decayed or damaged tissue is removed and the tooth is prepared under local anesthesia."
+        },
+        {
+          "title": "Impression",
+          "text": "A detailed mold is sent to the laboratory for fabrication."
+        },
+        {
+          "title": "Temporary restoration",
+          "text": "A temporary filling protects the tooth between visits."
+        },
+        {
+          "title": "Fitting and bonding",
+          "text": "The completed restoration is fitted, adjusted for bit, and permanently bonded."
+        }
+      ],
+      "comfort": "Performed under local anesthesia. Post-treatment sensitivity is mild and resolves within a week.",
+      "benefits": [
+        "More durable than traditional fillings",
+        "Preserves more natural tooth structure than a crown",
+        "Excellent fit and seal — less likely to harbor bacteria",
+        "Long-lasting — can last 20+ years with proper care",
+        "Available in tooth-colored materials for a natural appearance"
+      ],
+      "risks": "Rare possibility of post-placement sensitivity or the need for minor bite adjustments.",
+      "aftercare": {
+        "First 24 Hours": [
+          "Avoid very hard or sticky foods on the new restoration"
+        ],
+        "First Few Days": [
+          "Mild sensitivity is normal and will resolve"
+        ],
+        "First Week": [
+          "The restoration should feel natural"
+        ],
+        "Long-Term Care": [
+          "Brush and floss normally — these restorations are very strong",
+          "Include in regular dental examinations"
+        ]
+      },
+      "url": "https://www.dentalclarity.org/#procedure/inlay-onlay",
+      "verified": true
+    },
+    {
+      "id": "apicoectomy",
+      "name": "Apicoectomy",
+      "category": "endodontic",
+      "category_name": "Endodontic Procedures",
+      "icon": "🦷",
+      "summary": "A minor surgical procedure that removes the tip of a tooth's root and surrounding infected tissue when a conventional root canal cannot resolve the infection.",
+      "duration": "30–90 min",
+      "visits": "1–2 visits",
+      "painLevel": 40,
+      "keywords": [
+        "apicoectomy",
+        "root end surgery",
+        "root tip",
+        "endodontic surgery",
+        "failed root canal"
+      ],
+      "overview": "An apicoectomy is a minor oral surgery performed when a previous root canal hasn't fully resolved an infection at the root tip (apex) of a tooth. The procedure removes the last few millimeters of the root end along with any infected tissue, and seals the root end with a small filling.",
+      "whyNeeded": "Sometimes root canals fail due to complex root anatomy, reinfection, cysts, or persistent inflammation at the root tip. When retreatment isn't possible or hasn't worked, an apicoectomy gives the tooth a second chance to heal without extraction.",
+      "steps": [
+        {
+          "title": "Anesthesia",
+          "text": "Local anesthesia thoroughly numbs the area. Sedation is available."
+        },
+        {
+          "title": "Incision and flap",
+          "text": "A small incision in the gum exposes the bone near the root tip."
+        },
+        {
+          "title": "Bone access",
+          "text": "A small window in the bone is created to reach the root tip."
+        },
+        {
+          "title": "Root end removal",
+          "text": "The infected root tip (approximately 3mm) and surrounding tissue are removed."
+        },
+        {
+          "title": "Root end filling",
+          "text": "A small filling seals the root end to prevent future bacterial entry."
+        },
+        {
+          "title": "Closure",
+          "text": "The gum flap is sutured back into place."
+        }
+      ],
+      "comfort": "The procedure is comfortable under local anesthesia. Post-surgical soreness, swelling, and mild bruising are normal for several days.",
+      "benefits": [
+        "Saves a tooth that would otherwise require extraction",
+        "Resolves persistent infection when conventional retreatment isn't sufficient",
+        "High success rate — approximately 85–90%",
+        "Preserves the natural tooth and avoids the need for an implant or bridge"
+      ],
+      "risks": "Considerations include possible temporary numbness near the treated root, slow healing in smokers or patients with compromised immunity, and rare treatment failure requiring eventual extraction.",
+      "aftercare": {
+        "First 24 Hours": [
+          "Rest; apply ice packs for swelling",
+          "Soft diet only",
+          "Take prescribed medications"
+        ],
+        "First Few Days": [
+          "Salt water rinses after 24 hours",
+          "Avoid strenuous activity for 3–5 days",
+          "Bruising and swelling are expected and will resolve"
+        ],
+        "First Week": [
+          "Suture removal at follow-up appointment",
+          "Soreness should steadily decrease"
+        ],
+        "Long-Term Care": [
+          "Follow-up X-rays at 6 months and 1 year to confirm healing",
+          "The treated tooth should function normally"
+        ]
+      },
+      "url": "https://www.dentalclarity.org/#procedure/apicoectomy",
+      "verified": true
+    },
+    {
+      "id": "frenectomy",
+      "name": "Frenectomy",
+      "category": "surgical",
+      "category_name": "Surgical Procedures",
+      "icon": "⚕",
+      "summary": "A minor surgical procedure that removes or modifies a frenum — a small fold of tissue that may restrict tongue or lip movement, or cause a gap between teeth.",
+      "duration": "15–30 min",
+      "visits": "1 visit",
+      "painLevel": 20,
+      "keywords": [
+        "frenectomy",
+        "frenum",
+        "tongue tie",
+        "lip tie",
+        "labial frenectomy",
+        "lingual frenectomy",
+        "diastema"
+      ],
+      "overview": "A frenectomy removes or modifies a frenum — a small band of tissue connecting the tongue to the floor of the mouth (lingual frenum) or the upper lip to the gum (labial frenum). When a frenum is unusually tight or positioned, it can cause tongue-tie, restricted lip movement, gaps between front teeth, or nursing difficulties in infants.",
+      "whyNeeded": "A labial frenectomy is often recommended when a thick frenum creates or maintains a gap between upper front teeth (diastema). A lingual frenectomy (tongue-tie release) is performed when restricted tongue movement affects speech, swallowing, breastfeeding, or oral hygiene.",
+      "steps": [
+        {
+          "title": "Local anesthesia or topical gel",
+          "text": "The area is numbed. Infants may require only topical anesthetic."
+        },
+        {
+          "title": "Tissue removal",
+          "text": "The frenum is removed or modified using a scalpel, scissors, or laser."
+        },
+        {
+          "title": "Closure",
+          "text": "Small sutures close the wound. Laser procedures may require no sutures."
+        }
+      ],
+      "comfort": "The procedure is quick and performed under local anesthesia. Post-procedure discomfort is typically mild and short-lived — most patients describe it as similar to a canker sore.",
+      "benefits": [
+        "Resolves tongue-tie and associated speech/swallowing issues",
+        "Closes the gap between upper front teeth (often in combination with orthodontics)",
+        "Improves oral hygiene access",
+        "Improves breastfeeding in infants",
+        "Quick recovery"
+      ],
+      "risks": "Very low-risk. Minor bleeding, temporary soreness, and rare re-attachment (requiring revision) are possible.",
+      "aftercare": {
+        "First 24 Hours": [
+          "Cool soft diet",
+          "Take OTC pain reliever as needed",
+          "Gently rinse with salt water"
+        ],
+        "First Few Days": [
+          "Perform stretching exercises if instructed — this prevents re-attachment",
+          "Avoid tobacco and mouthwash containing alcohol"
+        ],
+        "First Week": [
+          "Healing is rapid; most patients feel normal within a week"
+        ],
+        "Long-Term Care": [
+          "For tongue-tie release in children: myofunctional therapy or speech therapy may be recommended to maximize the functional benefit"
+        ]
+      },
+      "url": "https://www.dentalclarity.org/#procedure/frenectomy",
+      "verified": true
+    },
+    {
+      "id": "tmj-splint",
+      "name": "TMJ Splint / Guard",
+      "category": "preventive",
+      "category_name": "Preventive Care",
+      "icon": "🌙",
+      "summary": "A custom oral appliance that repositions the jaw to reduce pain, clicking, and strain associated with temporomandibular joint (TMJ) disorders.",
+      "duration": "45 min per visit",
+      "visits": "2–3 visits",
+      "painLevel": 0,
+      "keywords": [
+        "TMJ",
+        "jaw pain",
+        "temporomandibular",
+        "splint",
+        "TMD",
+        "jaw clicking",
+        "jaw guard",
+        "TMJ guard"
+      ],
+      "overview": "A TMJ splint (also called an occlusal splint or stabilization appliance) is a custom-fitted oral device worn over the teeth to reduce stress on the temporomandibular joint, relax jaw muscles, and alleviate symptoms of TMJ disorder (TMD). It's typically worn at night but may also be recommended for daytime use in severe cases.",
+      "whyNeeded": "TMJ disorders cause pain in the jaw joint and surrounding muscles, clicking or popping sounds, limited jaw opening, headaches, and neck pain. Untreated, chronic clenching and grinding can cause progressive joint damage, tooth wear, and worsening symptoms. A splint addresses the mechanical source of the problem.",
+      "steps": [
+        {
+          "title": "TMJ evaluation",
+          "text": "A thorough assessment of jaw movement, muscle tenderness, joint sounds, and bite relationship."
+        },
+        {
+          "title": "Impressions",
+          "text": "Detailed impressions are sent to a lab where the splint is fabricated to precise specifications."
+        },
+        {
+          "title": "Delivery and calibration",
+          "text": "The splint is adjusted so your bite is balanced and comfortable in the appliance."
+        },
+        {
+          "title": "Follow-up",
+          "text": "Regular adjustments and monitoring ensure the splint continues to provide therapeutic benefit."
+        }
+      ],
+      "comfort": "TMJ splints take 1–2 weeks to adapt to. Most patients begin noticing symptom improvement within 2–4 weeks of consistent use.",
+      "benefits": [
+        "Reduces jaw muscle pain and fatigue",
+        "Decreases headaches and neck tension",
+        "Protects teeth from grinding damage",
+        "May improve joint clicking or locking over time",
+        "Non-invasive — no surgery required"
+      ],
+      "risks": "A poorly fitted splint can worsen symptoms. Custom-fabricated appliances from a trained dentist are essential. Some patients require additional treatments (physical therapy, stress management) for full resolution.",
+      "aftercare": {
+        "First 24 Hours": [
+          "Wear the splint as directed, typically at night"
+        ],
+        "First Few Days": [
+          "Initial awareness of the appliance is normal",
+          "Some patients notice mild jaw muscle soreness initially — this improves"
+        ],
+        "First Week": [
+          "Continue wearing consistently for best results"
+        ],
+        "Long-Term Care": [
+          "Clean the splint daily with a soft toothbrush and cool water",
+          "Attend follow-up appointments — splints require periodic calibration as symptoms improve",
+          "Pair with jaw exercises, stress reduction, and heat therapy for comprehensive management"
+        ]
+      },
+      "url": "https://www.dentalclarity.org/#procedure/tmj-splint",
+      "verified": true
+    },
+    {
+      "id": "sinus-lift",
+      "name": "Sinus Lift",
+      "category": "surgical",
+      "category_name": "Surgical Procedures",
+      "icon": "⚕",
+      "summary": "A bone grafting procedure that adds bone to the upper jaw below the sinus floor, creating the vertical bone height needed for upper implants.",
+      "duration": "1.5–2 hr",
+      "visits": "1 (healing: 4–9 months)",
+      "painLevel": 45,
+      "keywords": [
+        "sinus lift",
+        "sinus graft",
+        "upper jaw implant",
+        "maxillary sinus",
+        "sinus augmentation"
+      ],
+      "overview": "A sinus lift (sinus augmentation) is a bone grafting procedure performed when the upper jaw lacks sufficient bone height beneath the maxillary sinuses to support dental implants. Bone graft material is placed between the jawbone and the sinus membrane, which is gently lifted to create space. Over several months, this grafted material integrates into your own bone.",
+      "whyNeeded": "When upper back teeth are lost, the sinus cavity can expand downward and bone naturally resorbs, leaving insufficient bone for implant placement. A sinus lift creates the necessary bone volume, making implants possible where they otherwise couldn't be placed.",
+      "steps": [
+        {
+          "title": "Anesthesia",
+          "text": "Local anesthesia with sedation options. IV sedation is common for this procedure."
+        },
+        {
+          "title": "Incision",
+          "text": "A small incision in the upper gum area exposes the lateral wall of the sinus."
+        },
+        {
+          "title": "Window creation",
+          "text": "A small opening is created in the bone to access the sinus membrane."
+        },
+        {
+          "title": "Membrane elevation",
+          "text": "The sinus membrane is gently lifted upward, creating a space beneath it."
+        },
+        {
+          "title": "Graft placement",
+          "text": "Bone graft material fills the created space."
+        },
+        {
+          "title": "Closure and healing",
+          "text": "The incision is closed. Bone integration takes 4–9 months before implants can be placed."
+        }
+      ],
+      "comfort": "Performed under local anesthesia with sedation available. Post-surgical swelling and discomfort are managed with prescribed medications. Some patients experience temporary sinus congestion.",
+      "benefits": [
+        "Enables implant placement in upper jaw where bone is deficient",
+        "High success rate when performed by experienced practitioners",
+        "Long-lasting results once integration is complete"
+      ],
+      "risks": "Risks include sinus membrane perforation (can usually be repaired during the procedure), infection, and incomplete graft integration. Smokers face significantly higher complication rates.",
+      "aftercare": {
+        "First 24 Hours": [
+          "Avoid blowing your nose — pressure can dislodge the graft",
+          "Sneeze with mouth open",
+          "Sleep with head slightly elevated",
+          "Apply ice packs for swelling"
+        ],
+        "First Few Days": [
+          "Take all prescribed medications",
+          "Use nasal decongestant spray as directed to prevent sinus congestion",
+          "Eat soft foods; avoid the surgical side"
+        ],
+        "First Week": [
+          "Do not blow your nose vigorously for 2 weeks",
+          "Avoid strenuous activity for 1 week"
+        ],
+        "Long-Term Care": [
+          "Follow-up imaging at 4–6 months to evaluate graft integration before implant placement",
+          "Do not smoke — it significantly compromises healing"
+        ]
+      },
+      "url": "https://www.dentalclarity.org/#procedure/sinus-lift",
+      "verified": true
+    },
+    {
+      "id": "retreatment-root-canal",
+      "name": "Root Canal Retreatment",
+      "category": "endodontic",
+      "category_name": "Endodontic Procedures",
+      "icon": "🦷",
+      "summary": "A second root canal procedure that opens and re-treats a previously treated tooth where infection or pain has returned.",
+      "duration": "60–90 min",
+      "visits": "1–2 visits",
+      "painLevel": 30,
+      "keywords": [
+        "retreatment",
+        "root canal retreatment",
+        "failed root canal",
+        "redo root canal",
+        "endodontic retreatment"
+      ],
+      "overview": "Root canal retreatment involves reopening a previously root-canal-treated tooth, removing the old filling material, cleaning the canals thoroughly, and re-sealing them. It's performed when a previous root canal has not fully healed, when new infection develops, or when previously inaccessible canals are identified.",
+      "whyNeeded": "Root canals can occasionally fail due to: complex canal anatomy that wasn't fully cleaned the first time; contamination of the filling material over time; a new cavity allowing bacteria to re-enter the sealed tooth; or a delayed crown placement. Retreatment gives the tooth a second chance at healing.",
+      "steps": [
+        {
+          "title": "Anesthesia",
+          "text": "Local anesthesia provides complete comfort throughout."
+        },
+        {
+          "title": "Crown or filling removal",
+          "text": "The existing crown or filling over the tooth is removed to access the root canals."
+        },
+        {
+          "title": "Removal of old filling material",
+          "text": "The gutta-percha (rubber-like filling) from the previous root canal is carefully removed using small instruments."
+        },
+        {
+          "title": "Thorough cleaning",
+          "text": "All canals are re-examined, any missed canals are located, and the entire canal system is cleaned and shaped with antimicrobial irrigation."
+        },
+        {
+          "title": "Re-sealing",
+          "text": "Fresh gutta-percha seals the canals and the tooth is sealed temporarily or with a new restoration."
+        }
+      ],
+      "comfort": "Retreatment is performed under local anesthesia and is typically comparable in comfort to the original procedure. Post-treatment soreness is expected for a few days.",
+      "benefits": [
+        "Saves the natural tooth and avoids extraction",
+        "Addresses persistent infection or pain",
+        "High success rate — comparable to initial root canal treatment",
+        "Preserves the existing crown in many cases"
+      ],
+      "risks": "Occasionally, complex post and core restorations make canal access difficult. Very rarely, canal calcification prevents complete retreatment. In these cases, apicoectomy or extraction may be alternative options.",
+      "aftercare": {
+        "First 24 Hours": [
+          "Avoid chewing on the treated tooth",
+          "Take recommended pain relievers"
+        ],
+        "First Few Days": [
+          "Soreness when biting is expected and should improve daily"
+        ],
+        "First Week": [
+          "Contact your dentist if pain worsens after day 3"
+        ],
+        "Long-Term Care": [
+          "Have a new crown placed as recommended to protect the retreated tooth"
+        ]
+      },
+      "url": "https://www.dentalclarity.org/#procedure/retreatment-root-canal",
+      "verified": true
+    }
+  ],
+  "import_method": "local-index-html",
+  "netlify_requests": 0
+}
